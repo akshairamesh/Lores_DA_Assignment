@@ -9,8 +9,8 @@ The data was retrieved from open source websites - OPUS and GroundAI. The Englis
 pairs. Hindi-Tamil language pair consists of 1,00,047 sentence pairs.
 
 ### Tools Used: 
-OpenNMT Toolkit - For Neural Machine Translation system
-Moses - For Statistical Machine Translation system
+OpenNMT Toolkit - For Neural Machine Translation system <br/>
+Moses - For Statistical Machine Translation system <br/>
 Latex Editor - For documentation of Report Work.
 
 All the source code for data preprocessing are present in cleaning_scripts/ directory.
