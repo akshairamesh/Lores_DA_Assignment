@@ -1,0 +1,500 @@
+statistics of games played
+_ reset
+waste
+% s on stock
+this game does not have hint support yet . 
+klondike three decks
+royal east
+spider three decks
+thumb and pouch
+joker
+five of clubs
+eight of clubs
+six of diamonds
+three of hearts
+five of hearts
+ten of hearts
+king of hearts
+ace of spades
+aisleriot provides a rule - based solitaire card engine that allows many different games to be played . 
+gnome games web site
+display cards with “ % s” card theme
+_ view
+play a different game
+get a hint for your next move
+_ sound
+whether or not to play event sounds
+whether or not to animate card moves
+unknown color
+the four of clubs
+the five of clubs
+the three of spades
+the four of spades
+the eight of hearts
+the ace of diamonds
+the three of diamonds
+the six of diamonds
+move ~ a onto an empty top slot . 
+move ~ a onto an empty right slot . 
+move ~ a onto the black joker . 
+move ~ a onto the five of clubs . 
+move ~ a onto the ace of spades . 
+move ~ a onto the two of spades . 
+move ~ a onto the five of spades . 
+move ~ a onto the seven of spades . 
+move ~ a onto the eight of spades . 
+move ~ a onto the ace of hearts . 
+move ~ a onto the two of hearts . 
+move ~ a onto the four of hearts . 
+move ~ a onto the eight of hearts . 
+move ~ a onto the nine of hearts . 
+move ~ a onto the jack of diamonds . 
+remove the black joker . 
+remove the two of clubs . 
+remove the king of clubs . 
+remove the ace of spades . 
+remove the six of spades . 
+remove the seven of spades . 
+remove the ten of spades . 
+remove the jack of spades . 
+remove the seven of hearts . 
+remove the jack of hearts . 
+remove the nine of diamonds . 
+deal another round
+move something onto an empty right - hand tableau slot
+have you read the help file ? 
+tourniquets are not recommended unless in the direst emergency
+never blow in a dog ' s ear
+you are searching for an eight . 
+six foundations
+five foundations
+remove the fives
+remove the sixes
+consider moving something into an empty slot
+deal a card from stock
+no moves are possible . undo or start again . 
+the game has no solution . undo or start again . 
+place the three of clubs next to the two of clubs . 
+place the five of clubs next to the four of clubs . 
+place the three of spades next to the two of spades . 
+place the four of spades next to the three of spades . 
+place the six of spades next to the five of spades . 
+place the ten of spades next to the nine of spades . 
+place the queen of spades next to the jack of spades . 
+place the five of hearts next to the four of hearts . 
+place the three of diamonds next to the two of diamonds . 
+place the seven of diamonds next to the six of diamonds . 
+place the ten of diamonds next to the nine of diamonds . 
+select a card from the reserve for first foundation pile
+move a card from the reserve onto the empty tableau slot
+deal another card
+deal new cards from the deck
+place cards on to the tableau to form poker hands
+deal the cards
+blondes and brunettes
+match the top two cards of the waste . 
+application does not accept documents on command line
+unrecognized launch option : % d
+file
+specify session management id
+empty slot on foundation
+move ~ a to an empty foundation
+an empty foundation place
+move a card from the reserve on to the empty tableau slot
+move ~ a from the stock to an empty edge or tableau slot
+empty foundation
+restore the default menu layout
+revert all menus to original settings ? 
+add or remove applications from the main menu
+end index
+desktop icon
+internal frame
+push button
+table cell
+table column header
+viewport
+object instance ' s name formatted for assistive technology access
+accessible value
+the accessible layer of this object
+accessible mdi value
+is used to notify that the table row description has changed
+is used to notify that the table summary has changed
+couldn ' t find level sequence description . 
+a puzzle game about atoms and molecules
+congratulations ! you have finished all atomix levels . 
+the initial size of the window
+print version information and exit
+_ copy path to clipboard
+mo _ ve to trash
+_ quit
+devices and locations
+could not detect occupied disk sizes . 
+" % s " is not a valid folder
+could not analyze disk usage . 
+set the root node from the model
+disk usage analyzer preferences
+_ monitor changes to your home folder
+all _ ocated space
+scan a remote folder or file system
+total filesystem capacity
+[ directory ] 
+windows share
+webdav ( http ) 
+please enter a name and try again . 
+optional information : 
+there is no installed viewer capable of displaying the folder . 
+could not move file to the trash
+this program is free software ; you can redistribute it and / or modify it under the terms of the gnu general public license as published by the free software foundation ; either version 2 of the license , or ( at your option ) any later version . 
+show all locations
+could not scan some of the folders contained in " % s " 
+aspect ratio : 
+display options for brasero - burn library
+" % s " could not be handled by gstreamer . 
+% s element could not be created
+only one track at a time can be checked
+retrieving image format and size
+burning image to dvd
+brasero - copying dvd ( simulation ) 
+burning ( s ) vcd
+brasero - burning disc ( simulation ) 
+simulation of image to disc burning
+please insert a recordable cd or dvd . 
+the disc in " % s " is not rewritable . 
+the disc in " % s " needs to be reloaded . 
+_ keep current location
+_ change location
+location for temporary files
+brasero - burning disc ( % i % % done ) 
+real disc burning will take place in 10 seconds . 
+the log file could not be found
+this is a excerpt from the session log ( the last 10 mib ) : 
+an unknown error occured . 
+dvd successfully copied
+image successfully burnt to dvd
+image successfully burnt to cd
+make _ another copy
+there are some more videos left to burn
+interrupting the process may make disc unusable . 
+the data size is too large for the disc even with the overburn option . 
+there is no inserted disc to copy . 
+please select a disc image . 
+there is no selected disc image . 
+please select another image . 
+it doesn ' t appear to be a valid disc image or a valid cue file . 
+please insert a disc that is not copy protected . 
+please replace the disc with a supported cd or dvd . 
+the drive that holds the source disc will also be the one used to record . 
+do you want to create a disc from the contents of the image or with the image file inside ? 
+the drive cannot be locked ( % s ) 
+ongoing checksuming operation
+video dvd image
+% s : % s free
+brasero will simulate the burning and if it is successful , go on with actual burning after 10 seconds
+burn the image directly _ without saving it to disc
+set the directory where to store temporary files
+click here to select a disc _ image
+creating checksum
+writing cd - text information
+" % s " is a symbolic link pointing to another program . use the target program instead
+set bac _ kground properties
+display debug statements on stdout for brasero media library
+% s : empty
+dvd - rw
+dvd - ram
+writable blu - ray disc
+blank % s in % s
+key not established
+invalid track mode
+impossible to retrieve local file path
+write to disc
+_ write to disc . . . 
+medium icon
+_ recent projects
+favourite burn engine
+contains the list of additional plugins brasero will use to burn discs . if set to null , brasero will load them all . 
+used in conjunction with " - immed " flag with cdrecord
+pane to display audio projects
+the pane to display with audio projects . it should be one of the following : " chooser " , " search " or " playlist " . 
+pane to display data projects
+the pane to display with data projects . it should be one of the following : " chooser " or " search " . 
+the pane to display with video projects . it should be one of the following : " chooser " , " search " or " playlist " . 
+layout of ui
+enable file preview
+default width for video preview . 
+should brasero filter hidden files . set to true , brasero will filter hidden files . 
+should brasero replace symbolic links by their target files in the project . set to true , brasero will replace symbolic links . 
+should brasero notify when files are filtered
+brasero project file
+remove the selected files from the project
+add the files stored in the clipboard
+the track will be padded at its end . 
+" % s " could not be opened . 
+select one song only please . 
+the disc was successfully blanked . 
+an unknown error occured
+select if you want to search among your text documents only
+click to start the search
+rename the selected file
+those names should be changed and truncated to 64 characters . 
+al _ ways replace
+al _ ways add such file
+do you really want to add " % s " to the selection ? 
+_ cancel loading
+cancel loading current project
+set an horizontal layout
+click to close the side pane
+save current project to a different location
+_ burn . . . 
+double click on files in the selection pane
+copy files ( from file manager for example ) and paste in this area
+project estimated size : % s
+the size of the project is too large for the disc and you must remove files from the project otherwise . you may want to use this option if you ' re using 90 or 100 min cd - r ( w ) which cannot be properly recognised and therefore need overburn option . note : this option might cause failure . 
+do you really want to create a new project and discard the current one ? 
+_ save
+save the changes of current project before closing ? 
+design and print covers for cds
+brasero - new data disc project
+no recently used project
+recent projects : 
+the file integrity was performed successfully . 
+downloading md5 file
+no md5 file was given . 
+use an external . md5 file that stores the checksum of a disc
+open a md5 file
+open a data project adding the uris given on the command line
+uri of an image file to be burnt ( autodetected ) 
+the xid of the parent window
+the project is empty
+" % s " could not be found
+converting toc file
+an image could not be created
+this version of genisoimage is not supported
+the location you chose to store the image on does not have enough free space for the disc image
+minimum drive buffer fill ratio ( in % ) ( see wodim manual ) : 
+libdvdcss could not be loaded properly
+data could not be written ( % s ) 
+video dvd could not be opened
+allow dao use
+libisofs reported an error while creating directory " % s " 
+libisofs reported an error while adding file at path " % s " 
+copying checksum file
+file downloader
+error while getting duration
+do you really want to carry on with automatic splitting ? 
+method to be used to split the track
+split track in parts with a fixed length
+_ slice
+slicing method
+slices preview
+restore the selected files
+set the options for file filtering
+allows to check data integrity on disc after it is burnt
+insert
+at the end
+do you want to search for video files inside the directory ? 
+directories cannot be added to video discs . 
+" % s " does not have a suitable type for video projects . 
+preparing to copy audio disc
+please insert a writable cd with at least % i mib of free space . 
+an unknown error occurred . 
+copy # % i has been burned successfully . 
+another copy will start as soon as you insert a new writable disc . if you do not want to burn another copy , press " cancel " . 
+would you like to burn beyond the disc ' s reported capacity ? 
+% . 1f× ( dvd ) 
+_ write to disc…
+create a copy of this cd or dvd
+should nautilus extension output debug statements . the value should be set to true if it should . 
+enable the " - immed " flag with cdrecord
+edit the track information ( start , end , author , etc . ) 
+some of the selected songs are suitable for creating dts tracks . this type of audio cd track provides a higher quality of sound but can only be played by specific digital players . note : if you agree , normalization will not be applied to these tracks . 
+to add files to this project click the " add " button or drag files to this area
+if you choose to create a new empty project , the file selection will be discarded . 
+_ discard file selection
+save project as an xspf playlist
+create a video dvd or an svcd that are readable on tv readers
+create 1:1 copy of a cd / dvd
+start burning immediately . 
+generates . cue files from audio
+copies any disc to a disc image
+an error occurred while writing to disc
+converts any song file into a format suitable for audio cds
+an error occurred while detecting silences . 
+creates disc images suitable for video dvds
+converts any video file into a format suitable for video dvds
+don ' t connect to an already - running instance
+what _ were you doing when the application crashed ? 
+note : sensitive information may be present in the crash details . please review the crash details if you are concerned about transmitting passwords or other sensitive information . 
+report a bug in gnome - based applications
+gtk + module for crash collecting support . 
+delete the included file after reporting
+minidump file with info about the crash
+bug buddy has encountered an error while submitting your report to the bugzilla server . details of the error are included below . 
+the email address you provided is not valid . 
+server returned bad state . this is most likely a server issue and should be reported to bugmaster @ gnome . org % s
+the description you provided for the crash is very short . are you sure you want to send it ? 
+some sensitive data is likely present in the crash details . please review and edit the information if you are concerned about transmitting passwords or other sensitive data . 
+the % s application has crashed . we are collecting information about the crash to send to the developers in order to fix the problem . 
+gdb has already exited
+gdb could not be found on your system . debugging information will not be obtained . 
+there was a network error while sending the report . do you want to save this report and send it later ? 
+an unknown error occurred . this is most likely a problem with bug buddy . please report this problem manually at bugzilla . gnome . org
+collecting information from the crash…
+bug buddy was unable to display the link " % s " 
+left shift
+in order to use % s , accessibility needs to be enabled . do you want to enable it now ? 
+warning - caribou : unhandled editable widget : 
+minimal opacity of keyboard
+- daemon listening accessibility events to launch on screen keyboard
+the width resolution of the image captured from the camera
+picture saturation
+adjusts hue level of the picture coming from the webcam
+defines the path where the photos are stored , if empty " xdg _ photo / webcam " will be used . 
+whether to start in wide mode
+delay between photos ( secs . ) 
+error while deleting
+cheese website
+move all to trash
+the device which points to the camera ( e . g . / dev / video0 ) 
+delay between photos ( seconds ) 
+device capabilities not supported
+move _ all to trash
+photo resolution
+failed to initialize device % s for capability probing
+start in wide mode
+take a photo using a webcam
+set to true to fire a flash before taking a photo
+the width of the video captured from the camera , in pixels
+adjusts the brightness of the image coming from the camera
+image saturation
+adjusts the saturation of the image coming from the camera
+could not move % s to trash
+choose an effect
+fire flash before taking a picture
+set to true to fire a flash when taking a picture
+webcam in use
+x coordinate of the actor
+width of the actor
+fixed position set
+forced minimum height request for the actor
+whether to use the natural - height property
+allocation
+the actor ' s request mode
+whether the actor has a clip set
+scale x
+scale y
+vertical scale center
+the rotation angle on the z axis
+x coordinate of the anchor point
+adds a constraint to the actor
+timeline used by the alpha
+object to which the animation applies
+the alpha used by the animation
+the source of the binding
+whether the layout should be vertical , rather than horizontal
+whether the layout should be homogeneous , i . e . all childs get the same size
+spacing between children
+the brightness change to apply
+the contrast change to apply
+surface height
+the actor wrapped by this data
+the minimum duration of a long press to recognize the gesture
+long press threshold
+the tint to apply
+the material to be used when painting the back of the actor
+the vertical amount of pixels required to start dragging
+constraints the dragging to an axis
+maximum width for each column
+minimum row height
+minimum height for each row
+the device manager instance
+number of axes
+the backend instance
+the font used to display subtitles
+the duration of the stream , in seconds
+the offset along the path , between - 1.0 and 2.0
+the path of the currently parsed file
+font dpi
+the source of the constraint
+offscreen
+settings for the depth cueing
+maximum length
+whether the input cursor is visible
+whether the cursor color has been set
+use markup
+the preferred place to ellipsize the string
+password character
+maximum length of the text inside the actor
+whether the text should be a single line
+sync size of actor
+disable slicing
+repeat the contents rather than scaling them horizontally
+the cogl pixel format to use
+the underlying cogl texture handle used to draw this actor
+cogl material
+the underlying cogl material handle used to draw this actor
+shape actor with alpha channel when picking
+failed to load the image data
+yuv textures are not supported
+delay before start
+whether the direction should be reversed when reaching the end
+angle y tilt
+tilt of the ellipse around y axis
+direction of rotation
+x coordinate of the center of rotation
+the background color of the box
+color set
+the color of the border of the rectangle
+whether the rectangle should have a border
+fragment source
+% s compilation failed : % s
+vertex shader
+make x calls synchronous
+destroyed
+if this is an override - redirect window
+the size of the actor
+scale z
+whether extra horizontal space should be assigned to the actor
+initial value of the interval
+the trigger edge used by the action
+cogl debugging flags to set
+debug the creation of texture slices
+debug coglblendstring parsing
+view all the geometry passing through the journal
+show how geometry is being batched in the journal
+trace the cogl pango renderer
+disable use of texture atlasing
+makes cogl think that the gl driver doesn ' t support npot textures so that it will create sliced textures or textures with waste instead . 
+trace offscreen support
+disable read pixel optimization
+logs information about how cogl is implementing clipping
+fogra47l uncoated
+mixture model ( ppm / dictionary ) 
+top to bottom
+starting and stopping
+start on space bar
+draw box outlines
+display size
+prediction
+box non - uniformity
+maximum zoom
+scan time ( each direction ) , in ms
+print socket - related debugging information to console : 
+two button dynamic mode
+warning : unable to set speech parameters
+always left - to - right
+copy all on stop
+number of forward boxes
+use default
+directly edit your entire configuration database
+description : 
+the width of the window
+the width of the main window in pixels . 
+a flag to enable fullscreen mode
+devhelp
+documentation browser
+whether the main window should start maximized or not . 
+x position of main window
+width of the assistant window
+the width of the index and search pane . 
+show api documentation
+book

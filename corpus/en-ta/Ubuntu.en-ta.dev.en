@@ -1,0 +1,500 @@
+authentication is required to change your own user data
+output version information and exit
+provides d - bus interfaces for querying and manipulating user account information . 
+\t % s acl pathname . . . 
+\t % s - b acl dacl pathname . . . 
+\t % s - r pathname . . . 
+\t % s - r pathname . . . \t [ not irix compatible ] 
+% s : cannot get default acl on ' % s ' : % s
+% s : cannot get access acl text on ' % s ' : % s
+yesterday , % h : % m
+the name of the file with the graphics for the cards . 
+whether or not to show the toolbar
+statistics of games played
+a list of strings that come in the form of a quintuple : name , wins , total games played , best time ( in seconds ) and worst time ( also in seconds ) . unplayed games do not need to be represented . 
+_ new
+_ redo move
+% s is distributed in the hope that it will be useful , but without any warranty ; without even the implied warranty of merchantability or fitness for a particular purpose . see the gnu general public license for more details . 
+stock
+accordion
+beleaguered castle
+escalator
+spider three decks
+k
+four of diamonds
+eight of diamonds
+jack of diamonds
+four of hearts
+ace of spades
+help file “ % s . % s” not found
+could not show help for “ % s”
+about solitaire
+freecell solitaire
+% d % % 
+please report this bug to the developers . 
+play a different game
+redo the undone move
+get a hint for your next move
+view help for this game
+cannot start the game “ % s”
+base card : king
+unknown color
+the black joker
+the red joker
+the three of clubs
+the five of clubs
+the seven of clubs
+the ten of clubs
+the ace of spades
+the nine of spades
+the king of spades
+the four of hearts
+the jack of hearts
+the three of diamonds
+the four of diamonds
+the six of diamonds
+the seven of diamonds
+the nine of diamonds
+the jack of diamonds
+move ~ a onto an empty foundation slot . 
+move ~ a onto the two of clubs . 
+move ~ a onto the nine of clubs . 
+move ~ a onto the jack of clubs . 
+move ~ a onto the king of clubs . 
+move ~ a onto the five of spades . 
+move ~ a onto the nine of spades . 
+move ~ a onto the queen of spades . 
+move ~ a onto the two of hearts . 
+move ~ a onto the three of hearts . 
+move ~ a onto the four of hearts . 
+move ~ a onto the five of hearts . 
+move ~ a onto the ten of hearts . 
+move ~ a onto the jack of hearts . 
+move ~ a onto the king of hearts . 
+move ~ a onto the three of diamonds . 
+remove the ten of spades . 
+remove the ten of hearts . 
+remove the king of hearts . 
+look both ways before you cross the street
+fishing wire makes bad dental floss
+when without a stapler , a staple and a ruler will work
+unknown value
+move a king onto an empty tableau slot . 
+remove the threes
+deal a card from stock
+no moves are possible . undo or start again . 
+double click any card to redeal . 
+no hint available . 
+place the eight of clubs next to the seven of clubs . 
+place the ten of clubs next to the nine of clubs . 
+place the jack of clubs next to the ten of clubs . 
+place the two of spades next to the ace of spades . 
+place the eight of spades next to the seven of spades . 
+place the ten of spades next to the nine of spades . 
+place the two of hearts next to the ace of hearts . 
+place the six of hearts next to the five of hearts . 
+place the ten of hearts next to the nine of hearts . 
+place the jack of hearts next to the ten of hearts . 
+place the three of diamonds next to the two of diamonds . 
+place the seven of diamonds next to the six of diamonds . 
+alternating colors
+place cards on to the tableau to form poker hands
+undo until there are enough cards to fill all tableau piles
+permission denied
+profile does not match signature
+% s : assert : invalid option : % d
+error in profile % s , failed to load
+dictionary , disk usage analyzer , log file viewer , search tool
+lxde ( the lightweight x11 desktop environment ) 
+optimized hardware acceleration of opengl with older nvidia graphic cards
+off - the - record messaging plugin for pidgin
+pidgin internet messenger plugin pack
+spam filter using text analysis ( works with evolution mail ) 
+gstreamer plugins for aac , xvid , mpeg2 , faad
+the complete educational desktop for kubuntu
+pre - school educational application bundle
+primary bundle
+a guess - the - number game , aka bulls and cows
+side - scrolling game
+a side - scrolling shoot - em - up action game
+penguin minesweeper
+penguin spider
+penguin thornq
+cd / dvd image manipulator
+midi connections manager
+create and edit subtitles for film and videos . 
+aliki ( with jack support ) 
+analysis tool for medical images
+on - screen creature
+fight evil monsters with your magic weapons . 
+translate as you type
+create a installation disc
+gapless audio player
+screen settings
+convert multimedia for all your devices
+manage multiple choice questionnaires , with automatic marking from papers ' scans
+avahi ssh server browser
+avahi vnc server browser
+notification tray monitor
+a rather destructive action game . 
+taking care of your ideas . 
+play billard game
+a small and fast bittorrent client
+3d modeling , animation , rendering and post - production
+edit binary files
+switch blocks so they match
+blockout ii
+bouncy the hungry rabbit
+beer calculator
+edit text files
+xxxterm browser
+minimalist ' s web browser
+gui for various compressed file formats
+super nintendo entertainment system ( tm ) emulator
+there is not enough disk space available to process this report . 
+to change software settings , you need to authenticate . 
+to change software repository settings , you need to authenticate . 
+install package file
+to install this package , you need to authenticate . 
+add a new repository and install packages from it
+to install updated software , you need to authenticate . 
+cancel the task of another user
+to cancel someone else ' s software changes , you need to authenticate . 
+allow packages from unauthenticated sources
+removed packages
+added software source
+removing packages
+adding software source
+downloaded
+non whitelist char in the uri
+unknown channel ' % s ' 
+software index is broken
+_ install
+whether the specified command should handle " apt " urls
+normal packages : 
+total distinct versions : 
+total dependencies : 
+total dependency version space : 
+no packages found
+unable to locate package % s
+version table : 
+error writing header to contents file
+w : unable to read directory % s
+w : 
+failed to readlink % s
+delink limit of % sb hit . 
+the following packages have unmet dependencies : 
+the following new packages will be installed : 
+the following packages will be upgraded : 
+% s ( due to % s ) 
+warning : the following essential packages will be removed . this should not be done unless you know exactly what you are doing ! 
+% s is already the newest version . 
+unmet dependencies . try using - f . 
+you are about to do something potentially harmful . to continue type in the phrase ' % s ' ? ] 
+unable to correct missing packages . 
+the update command takes no arguments
+unmet dependencies . try ' apt - get - f install ' with no packages ( or specify a solution ) . 
+the following extra packages will be installed : 
+unable to lock the download directory
+unable to get build - dependency information for % s
+media change : please insert the disc labeled ' % s ' in the drive ' % s ' and press enter
+desktop icon
+drawing area
+internal frame
+radio menu item
+table column header
+object instance ' s name formatted for assistive technology access
+accessible mdi value
+is used to notify that the table caption has changed ; this property should not be used . accessible - table - caption - object should be used instead
+accessible table row header
+accessible table row description
+is used to notify that the table row description has changed
+is used to notify that the table caption has changed
+the number of links which the current atkhypertext has
+apple devices support
+support for most ipod / iphone / ipad devices . 
+support for rio karma devices . 
+low complexity
+encoding mode
+grouping
+_ genre : 
+track _ number : 
+import ‟ { 0 } ”
+ejecting { 0 } . . . 
+- disk usage analyzer
+set the model of the chart
+_ copy path to clipboard
+_ view
+% s : cannot convert indexed to associative array
+this is not a suitable boot disk . please insert boot disk % u . 
+motor difficulties - switch devices
+^ check disc for defects
+^ boot from first hard disk
+^ install ubuntu kylin in text mode
+^ start ubuntu kylin
+disc ; cdrom ; dvd ; burn ; audio ; video ; 
+whether to use the " - immed " flag with cdrecord . use with caution ( set to true ) as it ' s only a workaround for some drives / setups . 
+used in conjunction with the " - immed " flag with cdrecord
+the speed to be used
+unknown error . 
+make sure another application is not using it
+" % s " cannot be unlocked
+please install the following required applications and libraries manually and try again : 
+only one track at a time can be checked
+an internal error occurred
+simulation of video dvd burning
+burning video dvd
+burning data cd
+simulation of image to cd burning
+burning image to cd
+burning image to disc
+please replace the disc with a rewritable disc holding data . 
+please insert a writable dvd . 
+please insert a writable cd or dvd . 
+the disc in " % s " is empty . 
+the image could not be created at the specified location
+_ replace disc
+cd - rw audio discs may not play correctly in older cd players and cd - text won ' t be written . 
+please eject the disc from " % s " manually . 
+save current session
+an unknown error occurred . 
+( s ) vcd successfully burned
+cd successfully copied
+there are some more songs left to burn
+do you really want to quit ? 
+interrupting the process may make disc unusable . 
+burn the selection of files across several media
+this is not supported by the current active burning backend . 
+please add songs . 
+it doesn ' t appear to be a valid disc image or a valid cue file . 
+the drive that holds the source disc will also be the one used to record . 
+video options
+select a disc image to write
+" % s " cannot be read
+new disc in the burner holding the source disc
+do you really want to choose this location ? 
+the filesystem on this volume does not support large files ( size over 2 gib ) . this can be a problem when writing dvds or large images . 
+% . 1f× ( bd ) 
+burning speed
+leave the disc _ open to add other files later
+set the directory where to store temporary files
+temporary files
+do you really want to keep the current extension for the disc image name ? 
+" % s " : unknown disc image type
+" % s " : % s
+do you really want to add " % s " to the selection ? 
+do you really want to add " % s " to the selection and use the third version of the iso9660 standard to support it ? 
+please wait until the estimation of the size is completed . 
+an unknown error occurred
+the file integrity check was performed successfully . 
+" % s " is not a valid uri
+_ check
+the disc is not supported
+retrieving image format and size
+format used mostly on the north american continent
+_ pal / secam
+analysing audio files
+starting to record
+not enough space available on the disc ( % s available for % s ) 
+the filesystem you chose to store the temporary image on cannot hold files with a size over 2 gib
+an internal error occurred ( % s ) 
+dvd - r
+dvd - rw
+writable blu - ray disc
+% s : % s
+% s h
+% s : % s
+% s : % s min
+audio and data disc ( % s ) 
+invalid command
+invalid parameter in command
+invalid field in command
+_ hide changes
+background properties
+text color
+pick a color
+drag or copy files below to write them to disc
+write disc image to a cd or dvd
+create a copy of this cd or dvd
+data could not be written ( % s ) 
+generates . cue files from audio
+cdrdao burning suite
+you do not have the required permissions to use this drive
+some files have invalid filenames
+enable the " - immed " flag ( see wodim manual ) 
+minimum drive buffer fill ratio ( in % % ) ( see cdrecord manual ) : 
+creating checksum for image files
+creates disc images suitable for video dvds
+libburnia burning suite
+libisofs could not be initialized . 
+copying checksum file
+impossible to link plugin pads
+converts any song file into a format suitable for audio cds
+_ tools
+the track is shorter than 6 seconds
+make sure the appropriate codec is installed
+select one song only please . 
+open the specified project
+path to device
+cover to use
+don ' t connect to an already - running instance
+path
+burn as _ data
+" % s " cannot be added to the selection . 
+it is a recursive symlink
+a file with this name already exists in the folder . replacing it will overwrite its contents on the disc to be burnt . 
+filter _ hidden files
+re _ place symbolic links
+gives the length of the pause that should follow the track
+options for plugin % s
+the project is too large for the disc even with the overburn option . 
+the project is too large for the disc and you must remove files from it . you may want to use this option if you ' re using 90 or 100 min cd - r ( w ) which cannot be properly recognized and therefore needs the overburn option . note : this option might cause failure . 
+do you really want to create a new project and discard the current one ? 
+emptying a project will remove all files already added . all the work will be lost . note that files will not be deleted from their own location , just no longer listed here . 
+let you choose your new project
+brasero — disc copy
+create a data cd / dvd
+insert number sequence at beginning
+this will remove all previous results . 
+split track in a fixed number of parts
+split track for each silence
+clear the slices preview
+slices preview
+edit the video information ( start , end , author , etc . ) 
+" % s " does not have a suitable type for video projects . 
+application does not accept documents on command line
+id
+ne _ xt
+_ help
+camera device string indicator
+the path to the device node which points to the camera , for example / dev / video0
+the height of the video captured from the camera , in pixels
+_ cancel
+start in fullscreen mode
+_ delete
+no effects found
+take multiple photos using a webcam
+whether to use fixed positioning for the actor
+whether to use the min - width property
+position on the z axis
+horizontal scale center
+the rotation angle on the z axis
+the rotation center on the x axis
+rotation center z gravity
+show on set parent
+whether the actor is shown when parented
+clip to allocation
+whether the background color is set
+the coordinate to bind
+horizontal alignment
+allocate extra space for the child
+whether the child should receive priority when the container is allocating spare space on the vertical axis
+vertical alignment of the actor within the cell
+whether layout changes should be animated
+whether the clickable should be in pressed state
+the number of horizontal tiles
+the desaturation factor
+the horizontal amount of pixels required to start dragging
+constraints the dragging to an axis
+minimum width for each column
+maximum row height
+the type of the device
+direction for the text
+the source of the constraint
+the edge of the actor that should be snapped
+whether the stage is able to be resized via user interaction
+perspective projection parameters
+settings for the depth cueing
+color of the font used by the text
+whether the input cursor is visible
+whether or not the text includes pango markup
+control how line - wrapping is done
+ellipsize
+whether the text should be a single line
+whether the selected text color has been set
+direction of the timeline
+alpha value
+end depth
+tilt of the ellipse around x axis
+angle y tilt
+final scale on the y axis
+whether the surface should match the allocation
+whether the actor is playing
+has border
+fragment source
+% s compilation failed : % s
+the number of columns the widget should span
+the number of rows the widget should span
+disable slicing
+vertical repeat
+the cogl pixel format to use
+the underlying cogl material handle used to draw this actor
+keep aspect ratio
+pick with alpha
+the depth ( in number of bits ) of the pixmap bound to this texture
+window mapped
+x position of window on screen according to x11
+cogl debugging flags to unset
+trace all matrix manipulation
+outline rectangles
+disable batching of geometry in the cogl journal . 
+disable use of opengl pixel buffer objects
+cogl specialist
+disable use of arb fragment programs
+disable use of the fixed function pipeline backend
+disable blending
+trace offscreen support
+disable fallback caches for arbfp and glsl programs
+show debugging information for all files
+exit after a small delay
+yes
+f . pinard " to " françois pinardç
+it is derived from your password entry
+it does not contain enough different characters
+it is all whitespace
+it is based on a ( reversed ) dictionary word
+edit options
+are you sure that you wish to remove this ubuntu web account ? 
+output version information and exit
+run ' % s - - help ' to see a full list of available command line options . 
+please authorize ubuntu to access your % s account
+integer [ % s . . % s ] 
+error setting value : % s
+_ quit
+the width of the main window in pixels . 
+sql database
+postgresql is an sql relational database , offering increasing sql92 compliance and some sql3 features . it is suitable for use with multi - user database access , through its facilities for transactions and fine - grained locking . 
+this task provides basic " desktop " software using the gnome desktop environment . 
+this task provides basic " desktop " software using the k desktop environment . 
+laptop
+this task selects a variety of package useful for a general purpose mail server system . 
+this task sets up your system to be remotely accessed through ssh connections . 
+this task sets up a basic user environment , providing a reasonably small selection of services and tools usable on the command line . 
+how long to keep backup files
+backup location
+icon of the external volume
+change your backup settings
+back up
+restore deleted files
+_ every
+at least a year
+custom location
+backing up…
+another backup operation is already running
+no backup files found
+developer ' s help program
+documentation browser
+the width of the main window . 
+x position of main window
+cannot uncompress book ' % s ' : % s
+175 % 
+warning : layer % d ( % s ) selected more than once . 
+warning : there is no layer named % s
+export loaded file and exit
+display credits list and exit
+dynamic grid
+hex grid
+y position
+/ sort _ diagrams / as _ inserted
+/ sort diagrams / default / as _ inserted
+diagram tree

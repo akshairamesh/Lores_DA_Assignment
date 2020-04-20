@@ -1,0 +1,1500 @@
+play many different solitaire games
+the name of the file with the graphics for the cards . 
+whether or not to show the status bar
+whether or not to play event sounds . 
+% s is free software ; you can redistribute it and / or modify it under the terms of the gnu general public license as published by the free software foundation ; either version % d of the license , or ( at your option ) any later version . 
+% s is distributed in the hope that it will be useful , but without any warranty ; without even the implied warranty of merchantability or fitness for a particular purpose . see the gnu general public license for more details . 
+tableau
+this game is unable to provide a hint . 
+diamond mine
+forty thieves
+jamestown
+5
+8
+9
+k
+ten of clubs
+queen of clubs
+queen of diamonds
+eight of spades
+ten of spades
+king of spades
+about solitaire
+freecell solitaire
+% d : % 02d
+congratulations , you have won ! 
+pick up and drop cards by clicking
+this usually occurs when you run an older version of aisleriot which does not have the game you last played . the default game , klondike , is being started instead . 
+base card : queen
+base card : king
+the eight of clubs
+the two of spades
+the six of spades
+the five of hearts
+the two of diamonds
+the four of diamonds
+move ~ a onto the foundation . 
+move ~ a onto an empty corner slot . 
+move ~ a onto an empty bottom slot . 
+move ~ a onto an empty left slot . 
+move ~ a onto an empty slot . 
+move ~ a onto the two of clubs . 
+move ~ a onto the eight of clubs . 
+move ~ a onto the nine of clubs . 
+move ~ a onto the king of clubs . 
+move ~ a onto the three of spades . 
+move ~ a onto the jack of spades . 
+move ~ a onto the queen of spades . 
+move ~ a onto the three of hearts . 
+move ~ a onto the king of hearts . 
+move ~ a onto the eight of diamonds . 
+move ~ a onto the ten of diamonds . 
+remove the red joker . 
+remove the nine of clubs . 
+remove the unknown card . 
+remove the three of hearts . 
+remove the four of hearts . 
+remove the five of hearts . 
+remove the six of hearts . 
+remove the ten of hearts . 
+remove the four of diamonds . 
+remove the eight of diamonds . 
+remove the jack of diamonds . 
+move waste back to stock
+i could sure use a backrub right about now . . . 
+you are searching for a king . 
+unknown value
+move something on to an empty reserve
+remove the fours
+remove the queens
+remove the kings
+return cards to stock
+double click any card to redeal . 
+place the four of clubs next to the three of clubs . 
+place the six of clubs next to the five of clubs . 
+place the two of spades next to the ace of spades . 
+place the seven of spades next to the six of spades . 
+place the nine of spades next to the eight of spades . 
+place the ten of hearts next to the nine of hearts . 
+place the jack of hearts next to the ten of hearts . 
+place the queen of hearts next to the jack of hearts . 
+place the king of hearts next to the queen of hearts . 
+place the eight of diamonds next to the seven of diamonds . 
+place the queen of diamonds next to the jack of diamonds . 
+move a card or build of cards on to the empty slot
+aim to place the suits in the order which fits the current layout most naturally . 
+something
+you are searching for a % s . 
+not a launchable item
+specify file containing saved configuration
+an empty foundation
+the foundation pile
+bug ! make - hint called on false move . 
+an empty reserve
+diamonds
+option pane
+accessible description
+accessible parent
+is used to notify that the value has changed
+the accessible role of this object
+the accessible mdi value of this object
+is used to notify that the table caption has changed ; this property should not be used . accessible - table - caption - object should be used instead
+is used to notify that the table caption has changed
+document spreadsheet
+document email
+found level ' % s ' in : % s
+the application no longer exists
+this key determines the gtk + modules to load for accessibility support . 
+in combination with / desktop / gnome / interface / accessibility , this key is needed to enable the corba - based at - spi infrastructure if the corba - based at - spi infrastructure has been relocated . it is ignored if the corba - based at - spi infrastructure has not been relocated . 
+- disk usage analyzer
+today
+failed to show help
+could not scan folder " % s " or some of the folders it contains . 
+the maximum depth drawn in the chart from the root
+_ reload
+whether any change to the home directory should be monitored . 
+toolbar is visible
+scan _ filesystem
+total filesystem usage
+changes to your home folder will not be monitored . 
+too many arguments . only one directory can be specified . 
+could not detect any mount point . 
+without mount points disk usage cannot be analyzed . 
+custom location
+public ftp
+cannot connect to server . you must enter a name for the server . 
+connect to server
+service _ type : 
+there was an error displaying help . 
+_ ntsc
+format used mostly on the north american continent
+format used mostly in europe
+display debug statements on stdout for brasero burn library
+directories cannot be added to video or audio discs
+analysing files
+there are no files to write to disc
+" % s " cannot be found . 
+the file does not appear to be a playlist
+brasero - burning dvd
+brasero - copying dvd
+burning audio cd
+simulation of cd copying
+simulation of image to cd burning
+burning image to cd
+burning image to disc
+please insert a disc holding data . 
+please replace the disc with a recordable cd . 
+please insert a recordable cd . 
+please insert a recordable dvd . 
+please replace the disc with a recordable cd or dvd . 
+there is no disc in " % s " . 
+please eject the disc and reload it . 
+you may want to free some space on the disc and retry
+_ replace disc
+the disc in the drive holds data . 
+recording audio tracks on a rewritable disc is not advised . 
+some files don ' t have a suitable name for a fully windows - compatible cd . 
+brasero - copying dvd ( % i % % done ) 
+brasero - copying cd ( % i % % done ) 
+cd successfully copied
+image of cd successfully created
+image successfully created
+_ cancel burning
+please insert a recordable cd or dvd if you don ' t want to write to an image file . 
+no track information ( artist , title , . . . ) will be written to the disc . 
+please add files . 
+please add songs . 
+please add videos . 
+a new recordable disc will be required once the one currently loaded has been copied . 
+select a disc image to write
+_ copy
+select disc to copy
+burning cd / dvd
+no source drive specified
+ongoing blanking process
+ongoing burning process
+% . 1f x ( dvd ) 
+use burn _ proof ( decrease the risk of failures ) 
+iso9660 image
+cdrdao image
+properties of % s
+if you choose to keep it , programs may not be able to recognize the file type properly . 
+change _ extension
+estimated drive speed : 
+cancel ongoing burning
+% s , % d % % done
+transcoding song
+the size of the volume could not be retrieved
+solid color
+image path : 
+back cover
+the file is empty
+% s h % s min % s
+% s min
+dvd - rom
+dvd + r
+dvd + rw
+rewritable blu - ray disc
+% s in % s
+audio disc ( % s ) 
+outrange address
+invalid command
+the device timed out
+cd / dvd creator folder
+brasero is free software ; you can redistribute it and / or modify it under the terms of the gnu general public license as published by the free software foundation ; either version 2 of the license , or ( at your option ) any later version . 
+brasero disc burner
+contains the name of the favourite burn engine suite installed . it will be used if possible . 
+white list of additional plugins to use
+this key sets where the project pane should be ( 0 = on the right , 1 = on the left , 2 = at the top , 3 = at the bottom ) 
+default height for image preview . 
+replace symbolic links by their targets
+the track is shorter than 6 seconds
+do you want to add " % s " which is a video file ? 
+unknown error . 
+number of songs
+c _ onfigure
+in _ text documents
+type your keywords or choose ' all files ' from the menu
+the contents of the project changed since it was saved . 
+discard the current modified project
+continue with the current modified project
+" % s " cannot be added to the selection . 
+should files be renamed to be fully windows - compatible ? 
+_ disable full windows compatibility
+_ replace
+the children of this directory will have 7 parent directories . brasero can create an image of such a file hierarchy and burn it ; but the disc may not be readable on all operating systems . note : such a file hierarchy is known to work on linux . 
+click here to import its contents
+display video , audio and image preview
+loading information about % s
+add files to the project
+burn the disc
+to add files to this project you can : 
+to remove files from this project you can : 
+the size of the project is too large for the disc even with the overburn option . 
+save project as a pls playlist
+save project as an iriver playlist
+new _ audio project
+_ open . . . 
+no file selected
+create a video dvd or a svcd
+the file integrity check could not be performed . 
+there seems to be no corrupted file on the disc
+use a _ md5 file to check the disc
+the drive is empty
+path
+copying audio track
+use cdrdao to copy and burn cds
+unknown character encoding
+writing cue sheet
+use wodim to burn cds and dvds
+encrypted dvd : please install libdvdcss version 1.2 . x
+error reading video dvd ( % s ) 
+error while reading video dvd ( % s ) 
+libburn library could not be initialized
+volume could not be created
+libisofs creates disc images from files
+allows to burn files not stored locally
+normalize allows to set consistent sound levels between tracks
+impossible to link plugin pads
+do you really want to split the track ? 
+_ split
+re _ move all
+merge a selected slice with the next selected one
+clear the slices preview
+cdrtools burning suite
+filter _ hidden files
+file checksum
+allows to check file integrities on a disc
+song titles
+edit the video information ( start , end , author , . . . ) 
+vob allows to transcode any video file to a format suitable for video dvds
+error querying for keywords . 
+please replace the disc with a writable cd . 
+please replace the disc with a writable dvd with at least % i mib of free space . 
+please insert a writable cd or dvd with at least % i mib of free space . 
+if you import them you will be able to see and use them once the current selection of files is burned . 
+the disc could not be ejected though it needs to be removed for the current operation to continue . 
+data cd successfully burned
+all required applications and libraries are not installed . 
+a new writable disc will be required once the currently loaded one has been copied . 
+the drive cannot burn
+there is no track to burn
+new disc in the burner holding the source disc
+% . 1f× ( cd ) 
+display options for brasero media library
+blank this cd or dvd
+whether to use the " - - driver generic - mmc - raw " flag with cdrdao . set to true , brasero will use it ; it may be a workaround for some drives / setups . 
+do you want to add " % s " , which is a video file ? 
+click here to burn all songs as regular tracks
+click here to burn all suitable songs as dts tracks
+there is only one selected file ( " % s " ) . it is the image of a disc and its contents can be burned
+burn as _ image
+a file with this name already exists in the folder . replacing it will overwrite its content on the disc to be burnt . 
+do you really want to add " % s " to the selection and use the third version of the iso9660 standard to support it ? 
+estimated project size : % s
+brasero — % s ( data disc ) 
+brasero — new audio disc project
+brasero — new video disc project
+set the drive to be used for burning
+device path
+uri of an image file to burn ( autodetected ) 
+enable the " - immed " flag ( see cdrecord manual ) 
+checks disc integrity after it is burnt
+please only add files with video content
+do you want to replace the disc and continue ? 
+the type of checksum used for images
+the last browsed folder while looking for images to burn
+when several plugins are available for the same task , this value is used to determine which plugin should be given priority . 0 means the plugin ' s native priority is used . a positive value overrides the plugin ' s native priority . a negative value disables the plugin . 
+burning flags to be used
+the size of the file is over 2 gib . files larger than 2 gib are not supported by the iso9660 standard in its first and second versions ( the most widespread ones ) . it is recommended to use the third version of the iso9660 standard , which is supported by most operating systems , including linux and all versions of windows™ . however , mac os x cannot read images created with version 3 of the iso9660 standard . 
+the children of this directory will have 7 parent directories . brasero can create an image of such a file hierarchy and burn it but the disc may not be readable on all operating systems . note : such a file hierarchy is known to work on linux . 
+open a new window
+path to cover
+brasero is a application to burn cd / dvd for the gnome desktop . it is designed to be as simple as possible and has some unique features to enable users to create their discs easily and quickly . 
+your _ email address : 
+_ send
+email address
+pid of crashed program
+pid
+text file to include in the report
+unable to create the bug report : % s
+please write your report in english , if possible . 
+information about the % s application crash has been successfully collected . please provide some more details about what you were doing when the application crashed . a valid email address is required . this will allow the developers to contact you for more information if necessary . 
+bug buddy is a utility that helps report debugging information to the gnome bugzilla when a program crashes . 
+thank you for helping us improving our software . please fill your suggestions / error information for % s application . a valid email address is required . this will allow developers to contact you for more information if necessary . 
+http response returned bad status code % d
+application does not track its bugs in the gnome bugzilla . 
+bug buddy encountered an error while submitting your report to the bugzilla server . details of the error are included below . 
+the application % s has crashed . information about the crash has been successfully collected . this application is not known to bug buddy , therefore the bug report cannot be sent to the gnome bugzilla . please save the bug to a text file and report it to the appropriate bug tracker for this application . 
+step with the switch , activate by dwelling
+right shift
+mouse button to use in the scanning mode
+antler preferences
+the keyboard geometry caribou should use
+the keyboard geometry determines the shape and complexity of the keyboard , it could range from a ' natural ' look and feel good for composing simple text , to a fullscale keyboard . 
+maximum alpha
+webcam device string indicator
+adjusts brightness level of the picture coming from the webcam
+if set to true , then cheese will have a feature allowing you to delete a file immediately and in - place , instead of moving it to the trash . this feature can be dangerous , so use caution . 
+if set to true , cheese will startup in a wide mode with the image collection placed on the right side . useful with small screens . 
+the length of time , in milliseconds , to delay between taking each photo in a burst sequence of photos . 
+switch to burst mode
+please refer to the help for further information . 
+could not save % s
+the file " % s " cannot be moved to the trash . details : % s
+_ move to trash
+unable to open help file for cheese
+move to _ trash
+send by _ mail
+export to _ flickr
+check your gstreamer installation
+adjusts brightness level of the picture coming from the camera
+adjusts saturation level of the picture coming from the camera
+unknown device
+no device found
+take multiple photos
+p _ revious effects
+fire _ flash
+device to use as a camera
+- take photos and videos from your webcam
+navigate to the next page of effects
+the duration of the countdown before taking a photo , in seconds
+the width of the image captured from the camera , in pixels
+photo height
+adjusts the contrast of the image coming from the camera
+defines the path where the photos are stored . if empty , " xdg _ photo / webcam " will be used . 
+there was an error playing video from the webcam
+take multiple photos using a webcam
+if set to true , cheese will start up in fullscreen mode . 
+cheese uses your webcam to take photos and videos , applies fancy special effects and lets you share the fun with others . 
+under the hood , cheese uses gstreamer to apply fancy effects to photos and videos . with cheese it is easy to take photos of you , your friends , pets or whatever you want and share them with others . 
+forced natural width request for the actor
+forced natural height request for the actor
+whether to use the min - height property
+natural height set
+the actor ' s allocation
+whether the actor has been realized
+scale factor on the y axis
+whether the actor contains the pointer of an input device
+add an effect to be applied on the actor
+background color set
+the actor ' s background color
+the source of the alignment
+the axis to align the position to
+progress mode
+duration of the animation , in milliseconds
+the timeline used by the animation
+allocate extra space for the child
+whether the child should receive priority when the container is allocating spare space on the vertical axis
+whether to pack items at the start of the box
+use animations
+the duration of the animations
+the container that created this data
+whether the clickable should be in pressed state
+the maximum threshold before a long press is cancelled
+the number of vertical tiles
+vertical drag threshold
+column spacing
+maximum height for each row
+whether the device is enabled
+default frame rate
+use ' fuzzy ' picking
+uri
+whether the current stream is seekable
+the fill level of the buffer
+double click time
+the distance between clicks necessary to detect a multiple click
+the distance the cursor should travel before starting to drag
+the type of shader used
+the column the widget resides in
+the number of columns the widget should span
+allocate extra space for the child in horizontal axis
+spacing between rows
+the font description to be used
+the text to render
+whether the text is editable
+whether pressing return causes the activate signal to be emitted
+the cursor position of the other end of the selection
+whether or not the text includes pango markup
+control how line - wrapping is done
+ellipsize
+whether the text should be justified
+selected text color set
+vertical repeat
+repeat the contents rather than scaling them vertically
+the path of the file containing the image data
+decode image data files inside a thread to reduce blocking when loading images from disk
+pick with alpha
+duration of the timeline in milliseconds
+alpha object to drive the behaviour
+end depth
+tilt of the ellipse around z axis
+the clutterpath object representing the path to animate along
+axis of rotation
+center x
+y coordinate of the center of rotation
+initial scale on the x axis
+initial scale on the y axis
+the color of the rectangle
+source of vertex shader
+whether the shader is enabled
+sysfs path
+path of the device in sysfs
+the width of the pixmap bound to this texture
+the depth ( in number of bits ) of the pixmap bound to this texture
+window y
+z component of the pivot point
+translation along the x axis
+whether the transform property is set
+the number of columns that a child spans
+the amount of space between two consecutive columns
+constraints the panning to an axis
+scale factor set
+whether the scale - factor property is set
+special debug values : 
+comma - separated list of gl extensions to pretend are disabled
+cogl tracing
+trace some misc drawing operations
+visualize
+outline rectangles
+add wire outlines for all geometry
+disable use of opengl vertex buffer objects
+disable gl pixel buffers
+disable use of opengl pixel buffer objects
+disable software rect transform
+disable texture atlasing
+when this is set the glyph cache will always use a separate texture for its atlas . otherwise it will try to share the atlas with images . 
+disable use of the fixed function pipeline backend
+disable use of blending
+disables cogl ' s attempts to clip some rectangles in software . 
+trace performance concerns
+fogra40l sc paper
+show debugging information for all files
+dasher preferences
+adaptation
+bottom to top
+increase line thickness
+application options
+p
+enlarge input window
+global keyboard grab
+alternating direct mode
+safety margin
+double - press time
+enable backoff and start / stop buttons
+unable to initialize voices
+do you want to save your changes to % s ? your changes will be lost if you don ' t save them . 
+are you sure you wish to quit ? 
+- a text input application honouring accessibility
+_ about…
+_ appearance
+draw guides on screen to show area into which a click will zoom
+always top - to - bottom
+always bottom - to - top
+speak words as you write
+error setting value : % s
+_ find
+y position of main window
+the x position of the assistant window . 
+width of the index and search pane
+makes f2 bring up devhelp for the word at the cursor
+tuxedup @ users . sourceforge . net
+frank reininghaus
+expand $ { prefix } and $ { exec _ prefix } in output
+the & kpresenter ; handbook
+not found
+invalid modification
+endless
+resize smoothly resizes the icon while trying to preserve the contents
+cubic
+union
+scale : 
+slice distance : 
+rainbow declaration
+scale image to screen size , if smaller , up to factor : 
+this file is corrupted or not well built . 
+play order
+& font change . . . 
+accordion
+string ensemble 1
+blown bottle
+breath noise
+cmake
+website admin , api documentation , doxygen and autoproject patches
+enable the fourth extra page
+http
+current file
+create caption , & using the image description text . 
+iso - 8859 - 13
+table
+ş ( # 537 ; ) small s , comma accent below
+‹ ( # 8249 ; ) single left - pointing angle quotation mark
+align center
+span text
+& reload
+insert as & text
+configure quanta
+crash recovery
+foreground color : 
+delete ( % 1 ) 
+kde text to speech daemon
+italian female
+text 80x50 ( 1 ) 
+& remove entry
+enter here the label ( name ) of the operating system . 
+november
+11th
+reading archive start block failed . 
+these are the services stopped in runlevel % 1 . the number shown on the left of the icon determines the order in which the services are stopped . you can arrange them via drag and drop , as long as a suitable sorting number can be generated . if that ' s not possible , you have to change the number manually via the properties dialog box . 
+admins
+user workstations : 
+user properties - % 1 selected users
+noof
+rd - bomb
+echo
+science screen saver
+space fur
+specials
+run basic programs
+shy
+various ball sizes
+font border thickness
+this draws an animation of flight through an asteroid field , with changes in rotation and direction . written by jamie zawinski ; 1992 . 
+defeat the serpent of chaos
+effects for jack
+configure settings that can improve konqueror performance
+window manager
+images
+gtk + style
+ctan catalog
+dict . cc translation : german to english
+http : / / images . google . com / images ? q = \\\\ { @ } 
+albania
+improve accessibility for disabled persons
+configure input actions settings
+a window is shaded down
+python widget
+controls for the active window
+list all your contacts
+system preferences and setup programs
+regional & language
+the rings of saturn
+expandable folders
+protocol not supported by dolphin , konqueror has been launched
+rafael fernández lópez
+confirmation
+the debugger has quit unexpectedly . 
+if the option " use customized bell " is enabled , you can choose a sound file here . click " browse . . . " to choose a sound file using the file dialog . 
+remove background program
+normal background
+button background
+note : most window managers have their own configuration and do not follow kde settings . 
+create a new emoticon by assigning it an icon and some text
+used by the window titlebar . 
+ht : / / dig home page
+all icons
+to monochrome
+battery level
+alexander neundorf
+https : 
+includes your machine ' s cpu type in the browser identification text . 
+this option tells konqueror whether to ask for a confirmation when you " delete " a file . move to trash : moves the file to your trash folder , from where it can be recovered very easily . delete : simply deletes the file . 
+no action window list menu : a menu showing all windows on all virtual desktops pops up . you can click on the desktop name to switch to that desktop , or on a window name to shift focus to that window , switching desktops if necessary , and restoring the window if it is hidden . hidden or minimized windows are represented with their names in parentheses . desktop menu : a context menu for the desktop pops up . among other things , this menu has options for configuring the display , locking the screen , and logging out of kde . application menu : the " k " menu pops up . this might be useful for quickly accessing applications if you like to keep the panel hidden from view . 
+desktop & names
+this box contains the domains and hosts you have set a specific javascript policy for . this policy will be used instead of the default policy for enabling or disabling javascript on pages sent by these domains or hosts . select a policy and use the controls on the right to modify it . 
+if you disable this , konqueror will stop interpreting the window . open ( ) javascript command . this is useful if you regularly visit sites that make extensive use of this command to pop up ad banners . note : disabling this option might also break certain sites that require window . open ( ) for proper operation . use this feature carefully . 
+( c ) 1999 - 2001 the konqueror developers
+& show close button on tabs
+use accessibility stylesheet selecting this option will allow you to define a default font , font size , and font color with a few simple clicks of the mouse . simply wander over to the customize . . . dialog and pick out your desired options . 
+extreme
+defines the default ordering of devices which can be overridden by individual categories . 
+default output device preference
+bulk ( zip ) 
+reboot : 
+[ fix kdmrc ] 
+hostname
+export & opera bookmarks . . . 
+window role : 
+name of . knsrc file to use
+get system and desktop environment information
+& report bug . . . 
+kioclient exec ' url ' [ ' mimetype ' ] # tries to open the document pointed to by ' url ' , in the application # associated with it in kde . you may omit ' mimetype ' . # in this case the mimetype is determined # automatically . of course url may be the url of a # document , or it may be a * . desktop file . # ' url ' can be an executable , too . 
+& configure klipper . . . 
+developer ( html rendering engine , i / o library ) 
+for urls that point to files , opens the directory and selects the file , instead of opening the actual file
+konqueror is designed to embrace and support internet standards . the aim is to fully implement the officially sanctioned standards from organizations such as the w3 and oasis , while also adding extra support for other common usability features that arise as de facto standards across the internet . along with this support , for such functions as favicons , web shortcuts , and xbel bookmarks , konqueror also implements : 
+show mimetype
+kurt v . hindenburg
+& zmodem upload . . . 
+next view container
+% 1 ( auto ) 
+compressed packets
+wait until we are told to show the window before executing the command
+show all jobs in a list . 
+keep & above others
+draw titlebar & stipple effect
+create & folder . . . 
+nepomuk semantic desktop
+very low priority
+fifo
+you do not have the permission to change the i / o priority of the process and there was a problem trying to run as root . error % 1 % 2
+number of children : % 1 total user cpu usage : % 2 % total system cpu usage : % 3 % total cpu usage : % 4 % 
+kelvins
+no color scheme
+s60 : this material and its container must be disposed of as hazardous waste
+axis : 
+americium
+são tomé
+salta
+tanintharyi
+batouri
+whitehorse
+tarragonès
+guiyang
+storstrøm
+bucharest
+vaucluse
+créteil
+saxony - anhalt
+preston
+glamorgan
+kefallinia
+andaman and nicobar islands
+medan
+bari
+hidalgo
+veracruz
+honiara
+misamis occidental
+katowice
+alto alentejo
+sakha
+bryansk
+leningrad
+al - bahah
+east sikkim
+yambio
+nakhon si thammarat
+trang
+sacramento
+new york
+portuguesa
+kien giang
+howrah
+suri
+tshuapa
+construct a rational bézier cubic given its four control points . 
+the sides of a polygon . 
+measure transport
+select the first focus of the new hyperbola . . . 
+manage & types . . . 
+the file could not be saved
+coordinates
+parser error at position % 1 : missing parenthesis
+night vision
+center & & track
+cities . dat : ran out of fields . line was : 
+hercules
+green ridge
+tomb of sky
+drumheller
+lethbridge
+princeton
+anaheim
+putnam
+orlando
+svendborg
+cicero
+haenam
+monroe
+chicopee
+sault st . marie
+rotterdam
+newmarket
+sarnia
+groton
+layton
+la crosse
+dschubba
+alula borealis
+multiwavelength catalogs
+final right ascension : 
+scheduled time
+there are four ways to draw stars on the map . by default , stars are circles with a white core and a rim which is tinted to reflect the star ' s actual color . you may also choose to draw the stars as solid white , red , or black circles , to match the needs of your overall color scheme . 
+\t\t to set the time and date , type ctrl + s , use the " time - > set time " menu item , \t\t\tor press the " time " toolbar button . note that dates in kstars can be very \t\t\tremote ; you can use any year between - 50,000 and + 50,000 . \t\t \t
+object % 1 not found in list . 
+toggle display of star name labels
+n
+mths
+position angle
+us : 1st sun in apr . ( 02:00 ) / last sun in oct . ( 02:00 ) 
+telescope driver is missing . 
+session _ 
+level comment ( optional ) : 
+print : print the canvas
+count flashcard as correct or error
+select if the vocabulary documents should be opened in the editor
+select to print flashcards
+& undo unmark blank
+click here to change the color for grade 2 . 
+male : 
+cross
+concentric boxes with openings pointing in opposite directions
+shot at water
+project founder , gui handling , client / server
+your opponent has requested to restart the game . do you accept ? 
+run : yes
+score : xxxxxx
+start a new game
+ladders ? trust me ! 
+easy gold
+challenge
+replay last level . 
+10x10
+print % 1 - hole % 2
+border around course
+windmill
+new hole
+opposite diagonal
+initial patience solver
+embeddable image viewer component
+& select test picture : 
+pixar deflate
+text : italic
+window under cursor
+caret properties
+& page size
+fit & width
+unknown file
+sinhala
+keeps track of all cookies in the system
+case - sensitive searching
+verilog
+of sep
+jul
+of paush
+mañgalvã
+shawwal
+uploading file : 
+select files . . . 
+% 1 pib
+rating : % 1
+darkorchid4
+lightsalmon3
+mediumaquamarine
+azure2
+honeydew2
+could not enter folder % 1 . 
+the server does not support the request type of the body . 
+& show all entries
+this is the name to save the file as . 
+pattern ( example : * . html ; * . htm ) 
+could not write to cache file % 1 . 
+press this button to create a new autobookmark entity . 
+low color analog clock face
+asia / almaty
+asia / irkutsk
+asia / sakhalin
+australia / brisbane
+pacific / apia
+pacific / nauru
+vorbis & quality setting
+& empty playlist . . . 
+checksum search
+incoming message
+preview of pictures in chats
+kinetd
+comment = configure the news ticker applet , manage source files and other related settings . 
+only users of the ' % 1 ' group are allowed to share folders
+& remove host
+change notify timeout : 
+hidden files : 
+deleting group ' % 1 ' failed . 
+< speed > 
+modem & name : 
+dialing speed ( sec / 100 ) : 
+colors & fonts configuration
+time tracker
+planner plugin
+provides access to birthday dates of contacts in the kde address book as calendar events
+microblog serializer
+icq protocol
+exchange 2000 server
+delete address book folder
+invalid email attachment : % 1
+enter the start time of the working day . % 1
+march & 1st
+error saving alarm template
+repeat the alarm at monthly intervals
+on the
+year ( s ) 
+recurrence has already expired
+repeat until time [ [ [ yyyy - ] mm - ] dd - ] hh : mm [ tz ] , or date yyyy - mm - dd [ tz ] 
+enter the length of time ( in hours and minutes ) after the current time to schedule the alarm . 
+default setting in the alarm edit dialog for command script entry . 
+default for new & events
+kolab configuration wizard
+delete book
+self - check failed
+sending mail
+gnupg log viewer
+could not determine parent directory of " % 1 " 
+send & unsigned
+are you sure you want to delete the folder % 1 , discarding its contents ? beware that discarded messages are not saved into your trash folder and are permanently deleted . 
+previous unread & message
+go to the next unread text
+html status bar foreground - no html message
+turn this option on to make outlook ( tm ) understand attachment names containing non - english characters
+execute command
+base 64
+warn if & receiver ' s email address is not in certificate
+keep original charset when replying or forwarding if possible
+no folder selected
+initiating sender process . . . 
+select the directory containing the emails on your system . the emails are placed in a folder with the same name as the directory they were in , prefixed by plain - this filter will import all . msg , . eml and . txt emails . 
+emails cannot be canceled or superseded . 
+cancel messages cannot be canceled or superseded . 
+mark all as & read
+append own signature automatically
+rename popup note
+base dn
+s / mime key selection
+watched / ignored icon
+use different & compression level : 
+html tools
+cannot send unsaved file
+& highlight : 
+you can set this if you want to share your template with other users . the recommended form is like an email address : ' anders lund & lt ; anders @ alweb . dkgt ; ' 
+os
+split horizontal
+file pattern to exclude
+any file you select in the dialog that pops up when you click it will be put in the dialog to the left of this button . 
+class associations
+parameter name invalid
+enables / disables auto generation of empty constructors
+surface depth
+moon phase display
+kerfuffle _ libxz
+thinkpad plugin
+permeability of vacuum
+& switch to mode : 
+the gnupg configuration file was not found . should kgpg try to create a config file ? 
+decrypting % 1
+edit key server
+show the creation value in key manager . 
+& check md5 sum . . . 
+% 1 : % 2 & lt ; % 3gt ; 
+executor for kommander dialogs
+when searching , stop on first string found ( faster but no details ) 
+add point to % 1
+do not treat as the end of a sentence : 
+ms excel 2007 import filter for kspread
+odbc
+kivio
+genetics based resource conflict project scheduler
+painterly mixer
+new kword document : 
+zindex
+graphics pen
+normal area chart
+could not open shortcut file " % 1 " . 
+inserts one empty row above currently selected table row . 
+could not start project " % 1 " in final mode . 
+exports data from the currently selected table or query to a file . 
+go to selected row source
+sets or removes primary key for currently selected field . 
+branch and merge
+cisco - octel
+cisco - dpt
+cisco - branch office
+jigsaw - part _ ooio
+jigsaw - part _ oooi
+pneum - comelec1
+could not read the beginning of the file . 
+& add group . . . 
+fit to page / canvas
+upper alphabetical
+kword ' s html export filter
+new document
+document class : 
+heart reverse
+center top
+clockwise right
+slide wipe effect
+diagonal wipe effect
+make text bold
+step 1 : general information
+selection mode
+color deformation
+2x2
+mass : 
+grid brush
+& sharpen
+hdr layer
+& clone layer
+new panorama layer
+markka
+zero values
+besseli ( x ; n ) 
+bin2dec ( " 1010 " ) returns 10
+imsqrt ( " 1.2i " ) returns " 0.774597 + 0.774597i " 
+par value
+pv ( 1166.4 ; 0.08 ; 2 ) equals 1000
+the isnumber ( ) function returns true if the parameter is a numerical value . otherwise it returns false . it ' s the same as isnum . 
+not ( bool ) 
+log10 ( 10 ) equals 1 . 
+betadist ( number ; alpha ; beta ; start ; end ; [ cumulative = true ] ) 
+the expondist ( ) function returns the exponential distribution . 
+sin ( float ) 
+add named area
+drag & drop
+create a new style based on the currently selected cell
+inserts a new row into the spreadsheet
+remove this cell ' s comment
+no database drivers available . to use this feature you need to install the necessary qt 3 database drivers . 
+applied styles
+flesch reading ease : 
+create a copy of the current frame , that remains linked to it . this means they always show the same contents : modifying the contents in such a frame will update all its linked copies . 
+model : % 1
+move file up button this button moves the highlighted file up in the list of files to be printed . in effect , this changes the order of the files ' printout . 
+drag file ( s ) here or use the button to open a file dialog . leave empty for lt ; stdingt ; . 
+5x7
+b6 - c4
+transparencies
+0 . 14
+3 . 3
+2 . 800
+4 . 400
+monochrome , floyd - steinberg
+c6 envelope
+tray1
+paper matching
+watermark pages
+resolution enhancement
+primarily solid colors ro smooth gradients ( color or gray scale ) 
+double top ( portrait ) 
+7mb upgrade
+virtual mailbox ( user 5 ) 
+staple every 16 sheets
+1 . 5 mb printer memory
+20 mb printer memory
+printer setting
+bin 0 ( top ) 
+optional multi - feeder
+paper weight
+graphics mode
+1440 dpi
+choose the theme for the cards
+if you want to send a standard greeting to your opponent whenever you start a new match , check this box and write the message into the entry field . 
+continue old game
+no layout detection
+hotsync
+no cards available via pilot - link
+the configuration file for kpilot is out - of date . kpilot can update some parts of the configuration automatically . do you wish to continue ? 
+no files to install
+& custom template : 
+pilot database error
+enter the perl expression to be evaluated during a hotsync here . 
+selecting several alternatives is currently not supported . 
+error closing database
+missing left delim
+manage user accounts
+\t % s - d dacl pathname . . . 
+\t % s - d pathname . . . 
+% s : cannot get access acl on ' % s ' : % s
+% s : cannot get default acl on ' % s ' : % s
+% s : cannot get access acl text on ' % s ' : % s
+activities and privacy manager tool
+today , % h : % m
+send error reports to canonical
+theme file name
+whether or not to show the status bar
+the name of the scheme file containing the solitaire game to play . 
+statistics of games played
+recently played games
+_ reset
+you should have received a copy of the gnu general public license along with this program . if not , see . 
+reserve
+diamond mine
+spider three decks
+joker
+3
+7
+k
+eight of diamonds
+six of spades
+window height
+about solitaire
+% d
+n / a
+display cards with “ % s” card theme
+get a hint for your next move
+pick up and drop cards by clicking
+this usually occurs when you run an older version of aisleriot which does not have the game you last played . the default game , klondike , is being started instead . 
+base card : ace
+deal more cards
+the red joker
+the six of clubs
+the seven of clubs
+the ten of clubs
+the jack of clubs
+the jack of spades
+the six of hearts
+the ten of hearts
+the king of hearts
+the ace of diamonds
+the eight of diamonds
+the queen of diamonds
+the king of diamonds
+move ~ a onto the reserve . 
+move ~ a onto an empty edge slot . 
+move ~ a onto an empty corner slot . 
+move ~ a onto an empty right slot . 
+move ~ a onto the five of clubs . 
+move ~ a onto the eight of clubs . 
+move ~ a onto the nine of clubs . 
+move ~ a onto the ten of clubs . 
+move ~ a onto the two of spades . 
+move ~ a onto the three of spades . 
+move ~ a onto the seven of spades . 
+move ~ a onto the seven of hearts . 
+move ~ a onto the eight of hearts . 
+move ~ a onto the ace of diamonds . 
+move ~ a onto the three of diamonds . 
+move ~ a onto the six of diamonds . 
+remove the ten of hearts . 
+deal another round
+deal a new card from the deck
+move a card to the foundation
+have you read the help file ? 
+consistency is key
+you are searching for an ace . 
+you are searching for a queen . 
+remove the threes
+remove the kings
+move something onto an empty tableau slot . 
+consider moving something into an empty slot
+add to the sequence in row ~ a . 
+place the eight of clubs next to the seven of clubs . 
+place the six of spades next to the five of spades . 
+place the nine of spades next to the eight of spades . 
+place the queen of spades next to the jack of spades . 
+place the three of hearts next to the two of hearts . 
+place the ten of hearts next to the nine of hearts . 
+place the two of diamonds next to the ace of diamonds . 
+place the ten of diamonds next to the nine of diamonds . 
+place the queen of diamonds next to the jack of diamonds . 
+try dealing a row of cards
+try moving card piles around
+move a card from the reserve onto the empty tableau slot
+deal a new card
+aim to place the suits in the order which fits the current layout most naturally . 
+place cards on to the tableau to form poker hands
+deal the cards
+please fill in empty pile first . 
+permission denied
+profile doesn ' t exist
+% s : unable to write to stdout
+removal succeeded for " % s " . 
+exec qualifier ' i ' invalid , conflicting qualifier already specified
+% s : illegal open { , nesting groupings not allowed
+gnome desktop utilities
+kubuntu restricted extras
+this is a collection of free clipart
+pidgin internet messenger off - the - record plugin
+spam filter using text analysis ( works with evolution mail ) 
+educational desktop for kubuntu
+the complete educational desktop for kubuntu
+educational desktop for ubuntu
+the complete educational desktop for ubuntu
+seven kingdoms : ancient adversaries
+penguin merlin
+add or remove applications from the main menu
+schedule your tasks
+dock any application to the notification area / system tray . 
+graphical audio mixer
+defeat your opponent by filling up their grid up with garbage . 
+fight evil monsters with your magic weapons . 
+develop software in an integrated development environment
+translate as you type
+application to get and manage software
+screen settings
+browse the world wide web
+application to view dictionaries
+manage blackberry devices from a central gui . 
+bibledit bibletime interface
+post notes , tag files ! 
+3d video player
+jack diagnostic tool
+3d modeling , animation , rendering and post - production
+a memory enhancement game
+mission and objective based 3d action game
+a really simple but powerful audio player in python / pygtk , using gstreamer . 
+36 puzzle games for all the family
+create and copy cds and dvds
+minimalist ' s web browser
+3d fits data viewer for spectro - imaging
+fits image display and simple analysis
+online translator youtranslate ! 
+meterological file viewer
+your computer does not have enough free memory to automatically analyze the problem and send a report to the developers . 
+an error occurred while attempting to process this problem report : 
+remove downloaded package files
+change software repository
+install or remove packages
+add a new repository and install packages from it
+to use a proxy server for downloading software , you need to authenticate . 
+reinstall the given packages
+list trusted vendor keys
+removed packages
+canceled
+installing packages
+removing packages
+removing downloaded package files
+removing software failed
+adding software source failed
+check your internet connection . 
+downloaded
+non whitelist char in the uri
+url string ' % s ' too long
+package ' % s ' is already installed
+package ' % s ' requests minimal version ' % s ' , but only ' % s ' is available
+install additional software ? 
+package file % s is out of sync . 
+package pin : 
+version table : 
+please insert a disc in the drive and press enter
+repeat this process for the rest of the cds in your set . 
+% s not a valid deb package . 
+error processing contents % s
+no selections matched
+unable to open db file % s : % s
+failed to unlink % s
+% s has no override entry
+failed to create file * 
+failed to read while computing md5
+failed to rename % s to % s
+but % s is installed
+the following new packages will be installed : 
+% lu not fully installed or removed . 
+package % s is a virtual package provided by : 
+package % s is not installed , so not removed
+authentication warning overridden . 
+couldn ' t determine free space in % s
+download complete and in download only mode
+unable to correct missing packages . 
+the update command takes no arguments
+some packages could not be installed . this may mean that you have requested an impossible situation or if you are using the unstable distribution that some required packages have not yet been created or been moved out of incoming . 
+suggested packages : 
+calculating upgrade . . . 
+must specify at least one package to fetch source for
+need to get % sb / % sb of source archives . 
+need to get % sb of source archives . 
+failed to fetch some archives . 
+build command ' % s ' failed . 
+% s has no build depends . 
+failed to process build dependencies
+supported modules : 
+media change : please insert the disc labeled ' % s ' in the drive ' % s ' and press enter
+bad default setting ! 
+above this message are important . please fix them and run [ i ] nstall again
+number of anchors
+end index
+check menu item
+password text
+radio menu item
+table column header
+toggle button
+document text
+document email
+notification
+is used to notify that the table column description has changed
+accessible table row header
+support for most ipod / iphone / ipad devices . 
+support for rio karma devices . 
+amazon mp3 store source
+_ genre : 
+excluded partitions uris
+the initial size of the window
+the maximum depth drawn in the chart from the root
+set the model of the chart
+could not scan folder " % s " or some of the folders it contains . 
+bad array subscript
+% s : invalid associative array key
+^ try kubuntu without installing
+^ try edubuntu without installing
+^ try kubuntu netbook without installing
+install a minimal virtual machine
+open a new window
+burn an image file
+contains the path to the directory where brasero should store temporary files . if that value is empty , the default directory set for glib will be used . 
+whether to use the " - immed " flag with cdrecord . use with caution ( set to true ) as it ' s only a workaround for some drives / setups . 
+used in conjunction with the " - immed " flag with cdrecord . 
+should brasero filter hidden files . set to true , brasero will filter hidden files . 
+should brasero filter broken symbolic links . set to true , brasero will filter broken symbolic links . 
+the speed to be used
+the disc is ready for use . 
+ongoing burning process
+burning image to dvd
+burning ( s ) vcd
+burning audio cd
+burning image to cd
+burning video disc
+burning data disc
+simulation of image to disc burning
+please replace the disc with a rewritable disc holding data . 
+please replace the disc with a writable dvd with at least % i mib of free space . 
+please replace the disc with a writable dvd . 
+please replace the disc with a writable cd or dvd . 
+the disc in " % s " needs to be reloaded . 
+location for image file
+there are files already burned on this disc . would you like to import them ? 
+cd - rw audio discs may not play correctly in older cd players . 
+do you want to continue with full windows compatibility disabled ? 
+audio cd successfully burned
+cd successfully copied
+image of cd successfully created
+copy # % i has been burned successfully . 
+make _ more copies
+do you really want to quit ? 
+_ copy
+burn the selection of files across several media
+please choose another cd or dvd or insert a new one . 
+please add songs . 
+would you like to burn beyond the disc ' s reported capacity ? 
+a new writable disc will be required once the currently loaded one has been copied . 
+select a disc to write to
+copy cd / dvd
+select disc to copy
+video dvd image
+impossible to retrieve speeds
+burning speed
+_ simulate before burning
+burn the image directly _ without saving it to disc
+configure recording options
+total time : % 02i : % 02i : % 02i
+average drive speed : 
+ne _ ver add such file
+al _ ways add such file
+those names should be changed and truncated to 64 characters . 
+please wait until the estimation of the size is completed . 
+the operation cannot be performed . 
+retrieving image format and size
+analysing video files
+format used mostly on the north american continent
+vcd type : 
+preparing to write
+" % s " did not behave properly
+the size of the volume could not be retrieved
+no path was specified for the image output
+video _ ts directory is missing or invalid
+" % s " could not be found
+display options for brasero media library
+dvd - r
+writable blu - ray disc
+% s in % s
+% s : % s
+% s h % s
+invalid parameter in command
+the image could not be loaded . 
+pick a color
+cdrdao burning suite
+cdrkit burning suite
+last session import failed
+creates disc images from a file selection
+the location you chose to store the image on does not have enough free space for the disc image
+copies any disc to a disc image
+writing cue sheet
+burns , blanks and formats cds and dvds
+minimum drive buffer fill ratio ( in % ) ( see wodim manual ) : 
+copy tracks from an audio cd with all associated information
+minimum drive buffer fill ratio ( in % % ) ( see cdrecord manual ) : 
+no checksum file could be found on the disc
+libisofs reported an error while adding contents to directory " % s " ( % x ) 
+converts any video file into a format suitable for video dvds
+error while loading the project
+a simple to use cd / dvd burning application for gnome
+edit the track information ( start , end , author , etc . ) 
+remove the selected files from the project
+split the selected track
+do you want to add " % s " , which is a video file ? 
+this file is a video and therefore only the audio part can be written to the disc . 
+" % s " could not be opened . 
+click here to burn all suitable songs as dts tracks
+open the specified project
+set the drive to be used for burning
+path to device
+open the check disc dialog
+don ' t connect to an already - running instance
+discard the current modified project ? 
+burn as _ data
+burn as _ image
+it is a recursive symlink
+do you want to import the session from " % s " ? 
+that way , old files from previous sessions will be usable after burning . 
+no file filtered
+_ horizontal layout
+set a horizontal layout
+_ vertical layout
+set a vertical layout
+error parsing playlist " % s " . 
+number of songs
+c _ onfigure
+do you really want to create a new project and discard the current one ? 
+_ save
+design and print covers for cds
+new _ audio project
+create a video dvd or an svcd that is readable on tv readers
+brasero — new video disc project
+_ open
+the project could not be opened
+recent projects : 
+number files according to a pattern
+an error occurred while detecting silences . 
+method to be used to split the track
+split track in parts with a fixed length
+split track for each silence
+seconds
+slicing method
+clear the slices preview
+slices preview
+open the selected video
+" % s " does not have a suitable type for video projects . 
+please only add files with video content
+file is not a valid . desktop file
+unrecognized launch option : % d
+_ test
+_ no
+_ previous
+test to detect audio devices
+take a photo using a webcam
+photo resolution
+number of photos
+delay between photos ( seconds ) 
+photo ; video ; webcam ; 
+the height of the image captured from the camera , in pixels
+adjusts the hue ( color tint ) of the image coming from the camera
+number of photos in burst mode
+unknown device
+device to use as a camera
+fixed y
+forced natural width request for the actor
+natural height
+whether to use the min - width property
+whether to use the natural - width property
+the actor ' s allocation
+scale y
+center point for rotation around the z axis
+anchor x
+x coordinate of the anchor point
+show on set parent
+sets the clip region to track the actor ' s allocation
+has pointer
+whether the actor contains the pointer of an input device
+the actor attached to the meta
+the coordinate to bind
+horizontal alignment for the actor inside the layout manager
+whether the child should receive priority when the container is allocating spare space on the horizontal axis
+whether to pack items at the start of the box
+the easing mode of the animations
+the number of vertical tiles
+whether the device has a cursor
+whether the device is enabled
+direction for the text
+drag threshold
+the minimum duration for a long press gesture to be recognized
+the edge of the actor that should be snapped
+fullscreen set
+offscreen
+the color of the stage
+whether to honour the alpha component of the stage color
+whether the stage should clear its contents
+the font to be used by the text
+font description
+color of the font used by the text
+cursor color set
+selection color
+a list of style attributes to apply to the contents of the actor
+if set , wrap the lines if the text becomes too wide
+the preferred place to ellipsize the string
+the preferred alignment for the string , for multi - line text
+password character
+timeline used by the alpha
+alpha value as computed by the alpha
+the alpha used by the animation
+end depth
+y coordinate of the center of rotation
+surface height
+uri of a media file
+the font used to display subtitles
+vertex source
+currently set state , ( transition to this state might not be complete ) 
+the column the widget resides in
+the row the widget resides in
+the number of columns the widget should span
+maximum waste area of a sliced texture
+vertical repeat
+cogl texture
+load data asynchronously
+pick with alpha
+the width of the pixmap bound to this texture
+the depth ( in number of bits ) of the pixmap bound to this texture
+window override redirect
+if this is an override - redirect window
+special debug values : 
+cogl debugging flags to unset
+view all the geometry passing through the journal
+disable journal batching
+disable gl pixel buffers
+use the gpu to transform rectangular geometry
+disable sharing the texture atlas between text and images
+disable software clipping
+trace offscreen support
+disable program caches
+trace performance concerns
+tries to highlight sub - optimal cogl usage . 
+show debugging information for all files
+exit after a small delay
+( c ) ( c ) 
+f . pinard " to " françois pinardç
+it is based on your username
+it is derivable from your password entry
+you are not registered in the password file
+it is way too short
+it does not contain enough different characters
+online account credentials and settings
+control whether this application integrates with online accounts
+there are currently no applications installed which integrate with your % s account . 
+the web account which manages the integration of % s with your applications will be removed . 
+select to configure a new % s account
+please authorize ubuntu to access your % s account
+error setting value : % s
+manual package selection
+this task sets up your system to be a print server . 
+type of location to store backup
+backup location
+back up
+original location
+_ automatic backup
+developer ' s help program
+height of main window
+the height of the main window . 
+the y position of the main window . 
+cannot uncompress book ' % s ' : % s
+125 % 
+# 
+def
+ghi
+jkl
+% s - - > % s
+output
+export graphics size
+[ file . . . ] 
+quit dia
+hex grid
+hex grid size
+x position
+/ sort objects / by _ type
+/ sort objects / all as inserted
+/ sort objects / default / as _ inserted
+/ _ properties

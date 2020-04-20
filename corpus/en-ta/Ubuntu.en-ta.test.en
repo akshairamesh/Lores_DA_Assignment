@@ -1,0 +1,500 @@
+change your own user data
+manage user accounts
+change the login screen configuration
+\t % s - d dacl pathname . . . 
+privacy and activity manager
+no description available
+% e % b % y , % h : % m
+ubuntu can collect anonymous information that helps developers improve it . all information collected is covered by our privacy policy . 
+people using this computer can : 
+theme file name
+whether or not to show the status bar
+select whether to drag the cards or to click on the source then the destination . 
+_ hint
+_ reset
+% s is free software ; you can redistribute it and / or modify it under the terms of the gnu general public license as published by the free software foundation ; either version % d of the license , or ( at your option ) any later version . 
+you should have received a copy of the gnu general public license along with this program . if not , see . 
+reserve
+forty thieves
+a
+7
+two of clubs
+three of clubs
+nine of clubs
+ten of diamonds
+queen of diamonds
+five of hearts
+queen of hearts
+king of hearts
+two of spades
+king of spades
+face - down card
+aisleriot provides a rule - based solitaire card engine that allows many different games to be played . 
+gnome games web site
+deal next card or cards
+view help for aisleriot
+whether or not to play event sounds
+the ace of clubs
+the two of clubs
+the six of clubs
+the jack of clubs
+the three of spades
+the four of spades
+the seven of hearts
+move ~ a onto the foundation . 
+move ~ a onto an empty reserve slot . 
+move ~ a onto an empty bottom slot . 
+move ~ a onto an empty right slot . 
+move ~ a onto an empty slot . 
+move ~ a onto the red joker . 
+move ~ a onto the ace of clubs . 
+move ~ a onto the three of clubs . 
+move ~ a onto the six of clubs . 
+move ~ a onto the two of spades . 
+move ~ a onto the three of spades . 
+move ~ a onto the king of spades . 
+move ~ a onto the eight of hearts . 
+move ~ a onto the nine of hearts . 
+move ~ a onto the ace of diamonds . 
+move ~ a onto the ten of diamonds . 
+move ~ a onto the jack of diamonds . 
+remove the ten of clubs . 
+deal a new card from the deck
+consistency is key
+you are searching for a two . 
+you are searching for a three . 
+you are searching for an eight . 
+you are searching for a ten . 
+you are searching for a jack . 
+you are searching for a queen . 
+remove the fours
+remove the eights
+place the nine of clubs next to the eight of clubs . 
+place the queen of clubs next to the jack of clubs . 
+place the king of spades next to the queen of spades . 
+place the seven of hearts next to the six of hearts . 
+place the queen of hearts next to the jack of hearts . 
+place the five of diamonds next to the four of diamonds . 
+place the six of diamonds next to the five of diamonds . 
+place the eight of diamonds next to the seven of diamonds . 
+place the jack of diamonds next to the ten of diamonds . 
+try dealing a row of cards
+select a card from the reserve for first foundation pile
+move a card or build of cards on to the empty slot
+deal another hand
+deal a new card
+something
+an empty slot
+place something on empty slot
+move a build of cards on to the empty tableau slot
+removal succeeded for " % s " . 
+found unexpected character : ' % s ' 
+% s : illegal open { , nesting groupings not allowed
+% s : internal buffer overflow detected , % d characters exceeded
+% s : errors found in combining rules postprocessing . aborting . 
+30 useful plugins for pidgin
+tertiary bundle
+ubuntu - specific configuration defaults and apt support for firefox
+seven kingdoms : ancient adversaries
+penguin solitaire
+acidrip dvd ripper
+viewer for various types of documents
+activity log manager
+security & privacy
+fly your ship in a 4d environment
+contacts address book
+dogfight an enemy plane
+add or remove applications from the main menu
+wake up in the morning
+blast the invading aliens
+remote control your desktop from your bluetooth enabled mobile phone
+falling blocks puzzle game
+arc storage explorer
+armagetron advanced
+3d light cycle game
+browse the world wide web
+atomic tanks
+tetris - like game
+record and edit audio files
+rip audio tracks from your audio cds
+a simple music quiz game for gnu / linux
+program keyboard shortcuts
+browse for zeroconf services available on your network
+browse for zeroconf - enabled vnc servers
+shows status of ec2 instances running on given account . 
+go mad with this tetris clone
+battery monitor ( batmon ) 
+an application for managing botanical collections
+3d video player
+free space and maintain privacy
+play a bomberman like game
+create and copy cds and dvds
+edit text files " wiki style " 
+quick note from clipboard
+meterological file viewer
+your computer does not have enough free memory to automatically analyze the problem and send a report to the developers . 
+could not determine the package or source package name . 
+to clean downloaded package files , you need to authenticate . 
+update package information
+add a new repository of purchased software and install packages from it
+upgrade packages
+to use a proxy server for downloading software , you need to authenticate . 
+downloaded % sb of % sb
+reinstall the given packages
+added key from file
+updating packages
+adding software source failed
+removing downloaded package files failed
+check your internet connection . 
+authentication failed
+_ replace
+user requested interrupt . 
+the channel ' % s ' is not known
+package ' % s ' requests minimal version ' % s ' , but only ' % s ' is available
+true if the command used to handle this type of url should be run in a terminal . 
+pinned packages : 
+package pin : 
+cannot get debconf version . is debconf installed ? 
+some files are missing in the package file group ` % s ' 
+archive has no control record
+e : errors apply to file
+failed to open % s
+unknown compression algorithm ' % s ' 
+failed to fork
+compress child
+failed to read while computing md5
+y
+% lu upgraded , % lu newly installed , 
+% lu not fully installed or removed . 
+skipping % s , it is already installed and upgrade is not set . 
+warning : the following packages cannot be authenticated ! 
+some packages could not be authenticated
+need to get % sb / % sb of archives . 
+you don ' t have enough free space in % s . 
+yes , do as i say ! 
+calculating upgrade . . . 
+skipping already downloaded file ' % s ' 
+you don ' t have enough free space in % s
+fetch source % s
+child process failed
+must specify at least one package to check builddeps for
+bad default setting ! 
+press enter to continue . 
+or errors caused by missing dependencies . this is ok , only the errors
+check menu item
+color chooser
+glass pane
+option pane
+table row header
+accessible parent
+is used to notify that the value has changed
+accessible table column header
+accessible table caption object
+operation failed
+high compression
+importing from { 0 } 
+artist
+artists
+serial number
+disk usage analyzer
+check folder sizes and available disk space
+which type of chart should be displayed . 
+the initial size of the window
+maximum depth
+set the root node from the model
+_ about
+could not analyze volume . 
+a graphical tool to analyze disk usage . 
+bad array subscript
+other options
+everything
+^ try ubuntu without installing
+^ try kubuntu netbook without installing
+^ try lubuntu without installing
+^ install edubuntu in text mode
+^ install xubuntu in text mode
+^ try ubuntu kylin netbook without installing
+create and copy cds and dvds
+the type of checksum used for images
+directory to use for temporary files
+whether to use the " - use - the - force - luke = dao " flag with growisofs . set to false , brasero won ' t use it ; it may be a workaround for some drives / setups . 
+used in conjunction with the " - immed " flag with cdrecord . 
+this value represents the speed that was used in such a context the last time . 
+brasero disc burner : % s
+the disc was successfully blanked . 
+the disc is ready for use . 
+no burner specified
+no source drive specified
+the drive has no rewriting capabilities
+the drive cannot burn
+no format for the temporary image could be found
+burning disc
+burning image to dvd
+burning audio cd
+burning video disc
+please insert a disc holding data . 
+please replace the disc with a writable dvd . 
+please insert a writable dvd with at least % i mib of free space . 
+please replace the disc with a writable cd or dvd . 
+not enough space available on the disc in " % s " . 
+the disc in " % s " needs to be reloaded . 
+do you want to specify another location for this session or retry with the current location ? 
+do you want to continue anyway ? 
+the simulation was successful . 
+video dvd successfully burned
+another copy will start as soon as you insert a new writable disc . if you do not want to burn another copy , press " cancel " . 
+there are some more videos left to burn
+c _ ontinue burning
+burn _ several copies
+would you like to burn beyond the disc ' s reported capacity ? 
+a new writable disc will be required once the currently loaded one has been copied . 
+unknown song
+by % s
+% s : % s free
+use burn _ proof ( decrease the risk of failures ) 
+click here to select a disc _ image
+those names should be changed and truncated to 64 characters . 
+there seem to be no corrupted files on the disc
+no md5 file was given . 
+" % s " cannot be found . 
+the format of the disc image could not be identified
+aspect ratio : 
+vcd type : 
+creating checksum
+transcoding song
+no path was specified for the image output
+video _ ts directory is missing or invalid
+" % s " could not be found in the path
+brasero optical media library
+cd - r
+dvd - rom
+blank % s in % s
+% s in % s
+% s : empty
+% s h % s
+unknown error
+type mismatch
+key not established
+solid color
+% s element could not be created
+display debug statements on stdout for brasero utilities library
+_ write to disc…
+check the data integrity on this cd or dvd
+last session import failed
+copies any disc to a disc image
+an error occurred while writing to disc
+the system is too slow to write the disc at this speed . try a lower speed
+burns , blanks and formats cds and dvds
+cdrtools burning suite
+creating image checksum
+checks disc integrity after it is burnt
+growisofs burning suite
+libburn library could not be initialized
+libisofs reported an error while creating directory " % s " 
+sets consistent sound levels between tracks
+_ view
+error while loading the project
+please add files to the project . 
+the project is empty
+brasero is free software ; you can redistribute it and / or modify it under the terms of the gnu general public license as published by the free software foundation ; either version 2 of the license , or ( at your option ) any later version . 
+display the projects recently opened
+do you want to add " % s " , which is a video file ? 
+this file is a video and therefore only the audio part can be written to the disc . 
+do you want to create an audio cd with dts tracks ? 
+some of the selected songs are suitable for creating dts tracks . this type of audio cd track provides a higher quality of sound but can only be played by specific digital players . note : if you agree , normalization will not be applied to these tracks . 
+click here to burn all songs as regular tracks
+open an audio project adding the uris given on the command line
+open a video project adding the uris given on the command line
+force brasero to display the project selection page
+" % s " cannot write . 
+incompatible command line options used . 
+only one option can be given at a time
+_ discard
+continue with the current modified project
+burn as _ image
+_ replace
+do you want to import the session from " % s " ? 
+cancel loading current project
+set the options for file filtering
+p _ review
+display video , audio and image preview
+_ horizontal layout
+set a horizontal layout
+_ vertical layout
+this information will be written to the disc using cd - text technology . it can be read and displayed by some audio cd players . 
+additional song information
+select playlist
+number of songs
+c _ onfigure
+start to burn the contents of the selection
+_ add
+brasero — % s ( data disc ) 
+your project has not been saved . 
+new _ audio project
+create a traditional audio cd that will be playable on computers and stereos
+create a 1:1 copy of an audio cd or a data cd / dvd on your hard disk or on another cd / dvd
+burn an existing cd / dvd image to disc
+_ new
+_ open
+the project could not be opened
+the file is empty
+create a new project : 
+recent projects : 
+insert
+song information for track % 02i
+re _ move all
+slicing method
+open the selected video
+unrecognized desktop file version ' % s ' 
+can ' t pass document uris to a ' type = link ' desktop entry
+specify file containing saved configuration
+_ previous
+_ about
+photo burst mode
+navigate to the previous page of effects
+navigate to the next page of effects
+photo resolution
+_ close
+set to true to fire a flash before taking a photo
+the width of the image captured from the camera , in pixels
+adjusts the brightness of the image coming from the camera
+adjusts the saturation of the image coming from the camera
+% 02i : % 02i : % 02i
+device capabilities not supported
+failed to initialize device % s for capability probing
+unknown device
+device to use as a camera
+device
+could not open % s
+y coordinate of the actor
+fixed x
+forced minimum width request for the actor
+whether to use the natural - height property
+request mode
+opacity of an actor
+whether the actor has been realized
+whether the actor is reactive to events
+scale x
+scale factor on the x axis
+scale y
+x coordinate of the anchor point
+anchor gravity
+the actor attached to the meta
+the source of the binding
+the offset in pixels to apply to the binding
+default vertical alignment for the actors inside the layout manager
+horizontal alignment of the actor within the cell
+the container that created this data
+the actor wrapped by this data
+whether the clickable has a grab
+horizontal drag threshold
+vertical drag threshold
+the actor that is being dragged
+column spacing
+minimum row height
+minimum height for each row
+maximum height for each row
+whether the device has a cursor
+default : ltr
+use ' fuzzy ' picking
+clutter profiling flags to set
+the path used to constrain an actor
+filename set
+double click time
+the distance the cursor should travel before starting to drag
+the resolution of the font , in 1024 * dots / inch , or - 1 to use the default
+whether to use hinting ( 1 to enable , 0 to disable and - 1 to use the default ) 
+fullscreen set
+whether to enable depth cueing
+whether the stage should clear its contents
+whether the stage should accept focus on show
+the font description to be used
+whether pressing return causes the activate signal to be emitted
+whether the cursor color has been set
+selection color set
+the preferred place to ellipsize the string
+password character
+alpha value as computed by the alpha
+object to which the animation applies
+duration of the animation , in milliseconds
+the timeline of the animation
+axis of rotation
+surface height
+uri of a media file
+subtitle uri
+audio volume
+the volume of the audio
+the color of the rectangle
+whether the rectangle should have a border
+whether the shader is compiled and linked
+vertex shader
+allocate extra space for the child in vertical axis
+maximum waste area of a sliced texture
+repeat the contents rather than scaling them horizontally
+repeat the contents rather than scaling them vertically
+cogl material
+the width of the pixmap bound to this texture
+the x11 window to be bound
+window override redirect
+stock id ' % s ' not found
+supported debug values : 
+cogl options
+debug the creation of texture slices
+view all the geometry passing through the journal
+trace the cogl pango renderer
+add wire outlines for all rectangular geometry
+disable use of opengl vertex buffer objects
+disable texturing any primitives
+disable use of glsl
+disables cogl ' s attempts to clip some rectangles in software . 
+traces some select opengl calls
+disable program caches
+trace performance concerns
+show debugging options
+it ' s derived from your password entry
+it ' s derivable from your password entry
+you are not registered in the password file
+it looks like a national insurance number . 
+add account…
+- edit web credentials settings
+all applications
+select to configure a new % s account
+the width of the window
+a flag to enable maximized mode
+this task provides basic " desktop " software using the lxde desktop environment . 
+short name of the external volume
+restore deleted files from backup
+connect to server
+at least six months
+paused ( no network ) 
+no space left in ‘ % s’ . 
+mozilla firefox browser installer
+main window maximized state
+the height of the main window . 
+the x position of the main window . 
+use the system default fonts . 
+font for text
+quit any running devhelp
+75 % 
+200 % 
+400 % 
+* 
++ 
+2
+6
+8
+abc
+jkl
+warning : layer % lu ( % s ) selected more than once . 
+don ' t create empty diagram
+display version and exit
+diagram1 . dia
+select foreground color
+defaults : 
+grid lines
+trying to group with no selected objects . 
+/ sort objects / by _ name
+/ sort objects / by _ type
+/ sort objects / default / by _ type
+/ sort diagrams / default / by _ name
+% 0.3gcm x % 0.3gcm

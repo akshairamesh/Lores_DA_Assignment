@@ -1,0 +1,500 @@
+authentication is required to change your own user data
+\t % s acl pathname . . . 
+\t % s - b acl dacl pathname . . . 
+\t % s - b pathname . . . 
+\t % s - r pathname . . . \t [ not irix compatible ] 
+% s : cannot get default acl text on ' % s ' : % s
+no description available
+yesterday , % h : % m
+error reports include information about what a program was doing when it failed . you always have the choice to send or cancel an error report . 
+solitaire ; cards ; klondike ; spider ; freecell ; patience ; 
+whether or not to show the toolbar
+select whether to drag the cards or to click on the source then the destination . 
+_ leave fullscreen
+stock
+waste
+this game does not have hint support yet . 
+move % s onto % s . 
+accordion
+bakers game
+beleaguered castle
+zebra
+6
+q
+1
+ace of clubs
+three of clubs
+king of clubs
+three of diamonds
+four of diamonds
+king of diamonds
+two of hearts
+ace of spades
+ten of spades
+please report this bug to the developers . 
+_ recently played
+view help for this game
+install new card themes from the distribution packages repositories
+show or hide statusbar
+whether or not to animate card moves
+the black joker
+the three of clubs
+the five of clubs
+the king of clubs
+the two of spades
+the four of spades
+the six of spades
+the two of hearts
+the three of hearts
+the seven of hearts
+the five of diamonds
+move ~ a onto an empty foundation slot . 
+move ~ a onto the tableau . 
+move ~ a onto the red joker . 
+move ~ a onto the ace of clubs . 
+move ~ a onto the three of clubs . 
+move ~ a onto the unknown card . 
+move ~ a onto the ace of spades . 
+move ~ a onto the eight of spades . 
+move ~ a onto the queen of spades . 
+move ~ a onto the king of spades . 
+move ~ a onto the three of hearts . 
+move ~ a onto the nine of hearts . 
+move ~ a onto the queen of hearts . 
+move ~ a onto the eight of diamonds . 
+three card deals
+just because a crosswalk looks like a hopscotch board doesn ' t mean it is one
+when without a stapler , a staple and a ruler will work
+cards remaining : ~ a
+you are searching for a three . 
+you are searching for a five . 
+you are searching for a nine . 
+four foundations
+remove the aces
+remove the jacks
+remove the queens
+double click any card to redeal . 
+place a two in the leftmost slot of row ~ a . 
+place the king of clubs next to the queen of clubs . 
+place the two of spades next to the ace of spades . 
+place the five of spades next to the four of spades . 
+place the seven of spades next to the six of spades . 
+place the jack of spades next to the ten of spades . 
+place the king of spades next to the queen of spades . 
+place the four of hearts next to the three of hearts . 
+place the jack of hearts next to the ten of hearts . 
+place the king of hearts next to the queen of hearts . 
+place the seven of diamonds next to the six of diamonds . 
+place the eight of diamonds next to the seven of diamonds . 
+randomly placed gaps on redeal
+deal new cards from the deck
+allow temporary spots use
+blondes and brunettes
+match the top two cards of the waste . 
+l
+bad write position
+% s : unable to remove " % s " . 
+replacement succeeded for " % s " . 
+unable to serialize profile % s
+found unexpected character : ' % s ' 
+% s : errors found in file . aborting . 
+assert : ` rule ' returned null . 
+% s : regex grouping error : invalid number of items between { } 
+error in profile % s , failed to load
+easy to use distributed version control system
+optimized hardware acceleration of opengl with nvidia graphic cards
+pidgin internet messenger plugin pack
+primary grade - level educational application bundle
+enigmail extension for thunderbird
+firefox launchpad integration adds quick search for launchpad services
+ubufox extension for firefox
+a guess - the - number game , aka bulls and cows
+penguin canfield
+penguin minesweeper
+penguin pegged
+penguin thornq
+cd / dvd image manipulator
+fly your ship in a 4d environment
+a 2d graphical rpg
+medical image viewer and dicom network client
+algorithmics introduction software
+download with amz downloader
+on - screen creature
+msn messenger for linux
+falling blocks puzzle game
+gapless audio player
+arc job submission tool
+hardcore 3d space shooter with spaceship upgrade possibilities
+atomic tanks
+destroy your opponents ' tanks . 
+program keyboard shortcuts
+avahi zeroconf browser
+browse for zeroconf - enabled vnc servers
+advanced weather reporting program
+notification tray monitor
+play and organize your media collection
+barry desktop panel
+basket note pads
+taking care of your ideas . 
+an easy way to listen to internet radio of taiwan . 
+a small and fast bittorrent client
+blam feed reader
+volleyball game
+an arcade - like boat racing game
+play a 3d tetris game
+blocks of the undead
+bluefish editor
+bluetooth manager
+battle for survival
+bouncy the hungry rabbit
+eat the yummy veggies in the garden ( game for small kids ) 
+fast 2d tank arcade game with multiplayer and split - screen modes
+zygrib grib file viewer
+there is not enough disk space available to process this report . 
+list keys of trusted vendors
+change software configuration
+to change software settings , you need to authenticate . 
+downloaded % sb of % sb at % sb / s
+downloaded % sb of % sb
+you are not allowed to perform this action . 
+resolving dependencies
+install the given packages
+upgraded system
+removed downloaded package files
+_ replace
+no ' : ' in the uri
+enabling ' % s ' failed
+could not find package ' % s ' . 
+enable additional components
+do you want to enable the following software channel : ' % s ' ? 
+run the command in a terminal
+total dependencies : 
+total slack space : 
+total space accounted for : 
+unable to locate package % s
+cache is out of sync , can ' t x - ref a package file
+source extension list is too long
+db is old , attempting to upgrade % s
+failed to readlink % s
+* * * failed to link % s to % s
+delink limit of % sb hit . 
+archive had no package field
+failed to read the override file % s
+unknown compression algorithm ' % s ' 
+y
+warning : the following essential packages will be removed . this should not be done unless you know exactly what you are doing ! 
+unmet dependencies . try using - f . 
+yes , do as i say ! 
+the following information may help to resolve the situation : 
+recommended packages : 
+internal error , problem resolver broke stuff
+must specify at least one package to check builddeps for
+unable to get build - dependency information for % s
+press enter to continue . 
+drawing area
+file chooser
+glass pane
+internal frame
+progress bar
+table row header
+accessible parent
+is used to notify that the value has changed
+accessible mdi value
+is used to notify that the table row header has changed
+accessible table row description
+accessible table summary
+operation failed
+mtp media player support
+browse , search , and purchase music from the amazon mp3 store . 
+multimedia keys
+low complexity
+long term prediction
+default compression
+very high compression
+compilationartist
+track _ number : 
+generation
+which type of chart should be displayed . 
+maximum depth
+baobab
+you are leaving the graphical boot menu and starting the text mode interface . 
+halt the system now ? 
+^ try xubuntu without installing
+^ try ubuntu netbook without installing
+use driver update disc
+^ install edubuntu in text mode
+^ dell automatic reinstall
+create a video project
+should nautilus extension output debug statements . the value should be set to true if it should . 
+contains the name of the favourite burn engine suite installed . it will be used if possible . 
+enable the " - immed " flag with cdrecord
+used in conjunction with the " - immed " flag with cdrecord
+whether to use the " - - driver generic - mmc - raw " flag with cdrdao . set to true , brasero will use it ; it may be a workaround for some drives / setups . 
+when several plugins are available for the same task , this value is used to determine which plugin should be given priority . 0 means the plugin ' s native priority is used . a positive value overrides the plugin ' s native priority . a negative value disables the plugin . 
+burning flags to be used
+this value represents the burning flags that were used in such a context the last time . 
+unknown error . 
+the drive is busy
+no burner specified
+% s ( library ) 
+% s ( gstreamer plugin ) 
+copying data dvd
+burning data cd
+simulation of image to cd burning
+simulation of data disc burning
+please replace the disc with a writable cd or dvd with at least % i mib of free space . 
+please insert a writable cd or dvd with at least % i mib of free space . 
+an image of the disc has been created on your hard drive . burning will begin as soon as a writable disc is inserted . 
+the image could not be created at the specified location
+if you import them you will be able to see and use them once the current selection of files is burned . 
+if you don ' t , they will be invisible ( though still readable ) . 
+do you want to continue anyway ? 
+the disc could not be ejected though it needs to be removed for the current operation to continue . 
+the currently inserted disc could not be blanked . 
+an unknown error occurred . 
+video dvd successfully burned
+dvd successfully copied
+image of dvd successfully created
+image successfully burned to dvd
+data dvd successfully burned
+_ cancel burning
+please insert a writable cd or dvd if you don ' t want to write to an image file . 
+no track information ( artist , title , . . . ) will be written to the disc . 
+the drive that holds the source disc will also be the one used to record . 
+disc burning setup
+unknown song
+do you really want to choose this location ? 
+% . 1f× ( bd ) 
+allow to add more data to the disc later
+unreadable file
+estimated drive speed : 
+" % s " : % s
+click here to select a disc _ image
+do you really want to add " % s " to the selection and use the third version of the iso9660 standard to support it ? 
+should files be renamed to be fully windows - compatible ? 
+an unknown error occurred
+the file integrity check was performed successfully . 
+no md5 file was given . 
+use an external . md5 file that stores the checksum of a disc
+disc checking
+playlists cannot be added to video or audio discs
+_ pal / secam
+_ 4:3
+analysing audio files
+writing leadin
+writing cd - text information
+display debug statements on stdout for brasero burn library
+display options for brasero - burn library
+the filesystem you chose to store the temporary image on cannot hold files with a size over 2 gib
+the version of " % s " is too old
+" % s " is a symbolic link pointing to another program
+dvd - rom
+blank % s in % s
+audio and data % s in % s
+% s : empty
+no disc available
+% s h % s min % s
+% s min
+% s : % s min
+the disc mount point could not be retrieved
+outrange address
+invalid field in command
+key not established
+_ hide changes
+_ text color
+display debug statements on stdout for brasero utilities library
+cd / dvd creator
+copying audio track
+this version of genisoimage is not supported
+some files have invalid filenames
+there is no space left on the device
+burns , blanks and formats cds , dvds and bds
+hashing algorithm to be used : 
+copies css encrypted video dvds to a disc image
+growisofs burning suite
+libburn track could not be created
+libisofs reported an error while adding file at path " % s " 
+file downloader
+_ project
+_ tools
+brasero is free software ; you can redistribute it and / or modify it under the terms of the gnu general public license as published by the free software foundation ; either version 2 of the license , or ( at your option ) any later version . 
+do you want to create an audio cd with dts tracks ? 
+some of the selected songs are suitable for creating dts tracks . this type of audio cd track provides a higher quality of sound but can only be played by specific digital players . note : if you agree , normalization will not be applied to these tracks . 
+create an image file instead of burning
+cover to use
+open the blank disc dialog
+the xid of the parent window
+wrong command line option . 
+the session could not be imported . 
+there is only one selected file ( " % s " ) . it is the image of a disc and its contents can be burned
+al _ ways replace
+select the files you want to restore and click on the " restore " button
+restore the selected files
+song titles
+additional song information
+_ burn…
+to remove files select them then click on the " remove " button or press " delete " key
+the project is too large for the disc and you must remove files from it . you may want to use this option if you ' re using 90 or 100 min cd - r ( w ) which cannot be properly recognized and therefore needs the overburn option . note : this option might cause failure . 
+please add songs to the project . 
+brasero — % s ( data disc ) 
+your project has not been saved . 
+if you don ' t save , changes will be permanently lost . 
+save project as an m3u playlist
+save project as an xspf playlist
+let you choose your new project
+burn an existing cd / dvd image to disc
+browse the file system
+display playlists and their contents
+the file is empty
+it does not seem to be a valid brasero project
+create a traditional audio cd
+create a data cd / dvd
+create 1:1 copy of a cd / dvd
+start and stop playing
+the track wasn ' t split . 
+do you really want to empty the slices preview ? 
+re _ move all
+split track manually
+split track in a fixed number of parts
+_ list of slices that are to be created : 
+application does not accept documents on command line
+specify session management id
+session management options : 
+_ yes
+further information : 
+ne _ xt
+navigate to the previous page of effects
+navigate to the next page of effects
+video resolution
+cheese webcam booth
+set to true to show a countdown before taking a photo
+fire flash before taking a photo
+name of the installed effect that was selected last
+adjusts the saturation of the image coming from the camera
+defines the path where the videos are stored . if empty , " xdg _ video / webcam " will be used . 
+_ cancel
+cancellable initialization not supported
+start in wide mode
+could not open % s
+_ delete
+y coordinate of the actor
+width of the actor
+forced x position of the actor
+forced natural height request for the actor
+natural height set
+request mode
+the actor ' s request mode
+opacity of an actor
+whether the actor has a clip set
+scale factor on the x axis
+horizontal scale center
+whether the actor is shown when parented
+clip to allocation
+text direction
+layout manager
+the source of the binding
+vertical alignment
+allocate extra space for the child
+whether the child should receive priority when the container is allocating spare space on the vertical axis
+vertical alignment of the actor within the cell
+whether the layout should be homogeneous , i . e . all childs get the same size
+the container that created this data
+the actor wrapped by this data
+horizontal drag threshold
+constraints the dragging to an axis
+column spacing
+minimum width for each column
+minimum height for each row
+unique identifier of the device
+the name of the device
+number of axes
+make all warnings fatal
+use ' fuzzy ' picking
+clutter debugging flags to unset
+show clutter options
+the offset along the path , between - 1.0 and 2.0
+the description of the default font , as one that could be parsed by pango
+whether to use hinting ( 1 to enable , 0 to disable and - 1 to use the default ) 
+the type of shader used
+whether the main stage is fullscreen
+whether the main stage should be rendered offscreen
+perspective projection parameters
+whether the selection color has been set
+use markup
+whether the text should be justified
+whether the text should be a single line
+whether the selected text color has been set
+the duration of the animation
+alpha object to drive the behaviour
+initial depth to apply
+center of ellipse
+center x
+center z
+initial scale on the x axis
+final scale on the y axis
+whether the surface should match the allocation
+audio volume
+the volume of the audio
+the fill level of the buffer
+whether the shader is compiled and linked
+vertex shader
+horizontal expand
+allocate extra space for the child in horizontal axis
+sync size of actor
+rendering quality used when drawing the texture
+the cogl pixel format to use
+failed to load the image data
+x display to use
+window redirect automatic
+if composite window redirects are set to automatic ( or manual if false ) 
+window mapped
+enables all non - behavioural debug options
+cogl debugging flags to set
+debug coglblendstring parsing
+add wire outlines for all rectangular geometry
+add wire outlines for all geometry
+disable batching of geometry in the cogl journal . 
+disable use of opengl vertex buffer objects
+dump texture atlas changes to an image file
+disable use of texture atlasing
+disable use of blending
+show generated arbfp / glsl source code
+disable fallback caches for arbfp and glsl programs
+debugging options
+exit after the engine has loaded
+it is derived from your password entry
+it is based on a ( reversed ) dictionary word
+online accounts
+online accounts preferences
+- edit web credentials settings
+show accounts that integrate with : 
+directly edit your entire configuration database
+settings ; configuration ; 
+copyright © canonical ltd
+the height of the main window in pixels . 
+sql database
+this task selects client and server packages for the postgresql database . 
+this task provides basic desktop software and serves as a basis for the gnome and kde desktop tasks . 
+dns server
+this task sets up your system to be a file server , supporting both cifs and nfs . 
+this task provides basic " desktop " software using the k desktop environment . 
+this task provides basic " desktop " software using the lxde desktop environment . 
+short name of the external volume
+creating the first backup . this may take a while . 
+connect to server
+s _ how password
+no backup files found
+the x position of the main window . 
+font for text
+devhelp support
+50 % 
+75 % 
+don ' t show the splash screen
+select foreground color
+select background color
+visible spacing
+background
+grid lines
+couldn ' t convert filename ' % s ' to utf - 8 : % s
+/ sort objects / default / by _ name
+% 0.3gcm x % 0.3gcm

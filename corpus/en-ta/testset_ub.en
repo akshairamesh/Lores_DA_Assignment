@@ -1,0 +1,318 @@
+authentication is required to change your own user data
+provides d - bus interfaces for querying and manipulating user account information . 
+\t % s acl pathname . . . 
+\t % s - b acl dacl pathname . . . 
+\t % s - r pathname . . . 
+\t % s - r pathname . . . \t [ not irix compatible ] 
+% s : cannot get default acl on ' % s ' : % s
+% s : cannot get access acl text on ' % s ' : % s
+yesterday , % h : % m
+permission denied
+profile does not match signature
+% s : assert : invalid option : % d
+error in profile % s , failed to load
+dictionary , disk usage analyzer , log file viewer , search tool
+lxde ( the lightweight x11 desktop environment ) 
+optimized hardware acceleration of opengl with older nvidia graphic cards
+off - the - record messaging plugin for pidgin
+pidgin internet messenger plugin pack
+spam filter using text analysis ( works with evolution mail ) 
+gstreamer plugins for aac , xvid , mpeg2 , faad
+the complete educational desktop for kubuntu
+pre - school educational application bundle
+primary bundle
+a guess - the - number game , aka bulls and cows
+side - scrolling game
+a side - scrolling shoot - em - up action game
+penguin minesweeper
+penguin spider
+penguin thornq
+cd / dvd image manipulator
+midi connections manager
+create and edit subtitles for film and videos . 
+aliki ( with jack support ) 
+analysis tool for medical images
+on - screen creature
+fight evil monsters with your magic weapons . 
+translate as you type
+create a installation disc
+gapless audio player
+screen settings
+convert multimedia for all your devices
+manage multiple choice questionnaires , with automatic marking from papers ' scans
+avahi ssh server browser
+avahi vnc server browser
+notification tray monitor
+a rather destructive action game . 
+taking care of your ideas . 
+play billard game
+a small and fast bittorrent client
+3d modeling , animation , rendering and post - production
+edit binary files
+switch blocks so they match
+blockout ii
+bouncy the hungry rabbit
+beer calculator
+edit text files
+xxxterm browser
+minimalist ' s web browser
+gui for various compressed file formats
+super nintendo entertainment system ( tm ) emulator
+there is not enough disk space available to process this report . 
+to change software settings , you need to authenticate . 
+to change software repository settings , you need to authenticate . 
+install package file
+to install this package , you need to authenticate . 
+add a new repository and install packages from it
+to install updated software , you need to authenticate . 
+cancel the task of another user
+to cancel someone else ' s software changes , you need to authenticate . 
+allow packages from unauthenticated sources
+removed packages
+added software source
+removing packages
+adding software source
+downloaded
+non whitelist char in the uri
+unknown channel ' % s ' 
+software index is broken
+_ install
+whether the specified command should handle " apt " urls
+normal packages : 
+total distinct versions : 
+total dependencies : 
+total dependency version space : 
+no packages found
+unable to locate package % s
+version table : 
+error writing header to contents file
+w : unable to read directory % s
+w : 
+failed to readlink % s
+delink limit of % sb hit . 
+the following packages have unmet dependencies : 
+the following new packages will be installed : 
+the following packages will be upgraded : 
+% s ( due to % s ) 
+warning : the following essential packages will be removed . this should not be done unless you know exactly what you are doing ! 
+% s is already the newest version . 
+unmet dependencies . try using - f . 
+you are about to do something potentially harmful . to continue type in the phrase ' % s ' ? ] 
+unable to correct missing packages . 
+the update command takes no arguments
+unmet dependencies . try ' apt - get - f install ' with no packages ( or specify a solution ) . 
+the following extra packages will be installed : 
+unable to lock the download directory
+unable to get build - dependency information for % s
+media change : please insert the disc labeled ' % s ' in the drive ' % s ' and press enter
+apple devices support
+support for most ipod / iphone / ipad devices . 
+support for rio karma devices . 
+low complexity
+encoding mode
+grouping
+_ genre : 
+track _ number : 
+import ‟ { 0 } ”
+ejecting { 0 } . . . 
+% s : cannot convert indexed to associative array
+this is not a suitable boot disk . please insert boot disk % u . 
+motor difficulties - switch devices
+^ check disc for defects
+^ boot from first hard disk
+^ install ubuntu kylin in text mode
+^ start ubuntu kylin
+ne _ xt
+yes
+f . pinard " to " françois pinardç
+it is derived from your password entry
+it does not contain enough different characters
+it is all whitespace
+it is based on a ( reversed ) dictionary word
+edit options
+are you sure that you wish to remove this ubuntu web account ? 
+please authorize ubuntu to access your % s account
+sql database
+postgresql is an sql relational database , offering increasing sql92 compliance and some sql3 features . it is suitable for use with multi - user database access , through its facilities for transactions and fine - grained locking . 
+this task provides basic " desktop " software using the gnome desktop environment . 
+this task provides basic " desktop " software using the k desktop environment . 
+laptop
+this task selects a variety of package useful for a general purpose mail server system . 
+this task sets up your system to be remotely accessed through ssh connections . 
+this task sets up a basic user environment , providing a reasonably small selection of services and tools usable on the command line . 
+how long to keep backup files
+backup location
+icon of the external volume
+change your backup settings
+back up
+restore deleted files
+_ every
+at least a year
+backing up…
+another backup operation is already running
+no backup files found
+cannot uncompress book ' % s ' : % s
+175 % 
+warning : layer % d ( % s ) selected more than once . 
+warning : there is no layer named % s
+export loaded file and exit
+display credits list and exit
+dynamic grid
+hex grid
+y position
+/ sort _ diagrams / as _ inserted
+/ sort diagrams / default / as _ inserted
+diagram tree
+change your own user data
+manage user accounts
+change the login screen configuration
+\t % s - d dacl pathname . . . 
+privacy and activity manager
+no description available
+% e % b % y , % h : % m
+ubuntu can collect anonymous information that helps developers improve it . all information collected is covered by our privacy policy . 
+people using this computer can : 
+removal succeeded for " % s " . 
+found unexpected character : ' % s ' 
+% s : illegal open { , nesting groupings not allowed
+% s : internal buffer overflow detected , % d characters exceeded
+% s : errors found in combining rules postprocessing . aborting . 
+30 useful plugins for pidgin
+tertiary bundle
+ubuntu - specific configuration defaults and apt support for firefox
+seven kingdoms : ancient adversaries
+penguin solitaire
+acidrip dvd ripper
+viewer for various types of documents
+activity log manager
+security & privacy
+fly your ship in a 4d environment
+contacts address book
+dogfight an enemy plane
+wake up in the morning
+blast the invading aliens
+remote control your desktop from your bluetooth enabled mobile phone
+falling blocks puzzle game
+arc storage explorer
+armagetron advanced
+3d light cycle game
+browse the world wide web
+atomic tanks
+tetris - like game
+record and edit audio files
+rip audio tracks from your audio cds
+a simple music quiz game for gnu / linux
+program keyboard shortcuts
+browse for zeroconf services available on your network
+browse for zeroconf - enabled vnc servers
+shows status of ec2 instances running on given account . 
+go mad with this tetris clone
+battery monitor ( batmon ) 
+an application for managing botanical collections
+3d video player
+free space and maintain privacy
+play a bomberman like game
+edit text files " wiki style " 
+quick note from clipboard
+meterological file viewer
+your computer does not have enough free memory to automatically analyze the problem and send a report to the developers . 
+could not determine the package or source package name . 
+to clean downloaded package files , you need to authenticate . 
+update package information
+add a new repository of purchased software and install packages from it
+upgrade packages
+to use a proxy server for downloading software , you need to authenticate . 
+downloaded % sb of % sb
+reinstall the given packages
+added key from file
+updating packages
+adding software source failed
+removing downloaded package files failed
+check your internet connection . 
+authentication failed
+user requested interrupt . 
+the channel ' % s ' is not known
+package ' % s ' requests minimal version ' % s ' , but only ' % s ' is available
+true if the command used to handle this type of url should be run in a terminal . 
+pinned packages : 
+package pin : 
+cannot get debconf version . is debconf installed ? 
+some files are missing in the package file group ` % s ' 
+archive has no control record
+e : errors apply to file
+failed to open % s
+unknown compression algorithm ' % s ' 
+failed to fork
+compress child
+failed to read while computing md5
+y
+% lu upgraded , % lu newly installed , 
+% lu not fully installed or removed . 
+skipping % s , it is already installed and upgrade is not set . 
+warning : the following packages cannot be authenticated ! 
+some packages could not be authenticated
+need to get % sb / % sb of archives . 
+you don ' t have enough free space in % s . 
+yes , do as i say ! 
+calculating upgrade . . . 
+skipping already downloaded file ' % s ' 
+you don ' t have enough free space in % s
+fetch source % s
+child process failed
+must specify at least one package to check builddeps for
+bad default setting ! 
+press enter to continue . 
+or errors caused by missing dependencies . this is ok , only the errors
+operation failed
+high compression
+importing from { 0 } 
+artist
+artists
+serial number
+bad array subscript
+other options
+everything
+^ try ubuntu without installing
+^ try kubuntu netbook without installing
+^ try lubuntu without installing
+^ install edubuntu in text mode
+^ install xubuntu in text mode
+^ try ubuntu kylin netbook without installing
+brasero disc burner : % s
+_ previous
+stock id ' % s ' not found
+it ' s derived from your password entry
+it ' s derivable from your password entry
+you are not registered in the password file
+it looks like a national insurance number . 
+add account…
+- edit web credentials settings
+all applications
+select to configure a new % s account
+this task provides basic " desktop " software using the lxde desktop environment . 
+short name of the external volume
+restore deleted files from backup
+at least six months
+paused ( no network ) 
+no space left in ‘ % s’ . 
+mozilla firefox browser installer
+75 % 
+200 % 
+400 % 
+* 
++ 
+abc
+jkl
+warning : layer % lu ( % s ) selected more than once . 
+don ' t create empty diagram
+display version and exit
+diagram1 . dia
+select foreground color
+defaults : 
+grid lines
+trying to group with no selected objects . 
+/ sort objects / by _ name
+/ sort objects / by _ type
+/ sort objects / default / by _ type
+/ sort diagrams / default / by _ name
+% 0.3gcm x % 0.3gcm
